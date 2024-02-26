@@ -1,5 +1,7 @@
 # Gesprek Isabelle De Beule
+
 ## Vragen Auto
+
 Hebben jullie nog een originele auto zonder modificaties?
 > Er Zijn nog 5 originele auto's Er zijn nog 5 originele auto’s aanwezig in campus Kortrijk in het zorglab. Er word een auto overgebracht zodat we een elektrisch schema kunnen opstellen aan de hand van een nieuwe auto. Aan de hand van een originele auto wordt eveneens de ombouwkit opgesteld.
 
@@ -13,6 +15,7 @@ Wie heeft de modificaties uitgevoerd met de drukknop? Kunnen wij deze persoon in
 > De modificaties werden uitgevoerd door de studenten van zorgtechnologie onder begeleiding van de docent. Deseine Bert is de docent in kwestie. De voetpedaal werd enkel vervangen door een drukknop op het stuur.
 
 ## Vragen joystick
+
 Hoeveel ruimte moet er vrijgehouden worden voor de plaatsing van de stoel?
 >De joystick mag in de plaats komen waar het stuur zich nu bevind. Zo is er nog plaats om een aangepaste stoel te plaatsen indien nodig. Als de joystick te veel naar voor komt, is het moeilijker om een aangepaste stoel te plaatsen.
 
@@ -29,6 +32,7 @@ De wielen aan de onderkant moeten blijven zitten zodat de ouders de auto nog kun
 Er zijn enkele problemen met de batterij. Dit tijdens het opladen, de killswitch moet aan staan vooraleer de batterij kan opgeladen worden. Hier zullen we kijken of er een mogelijkheid is dat de batterij toch oplaad ongeacht de stand van de killswitch. Ook de levensduur van de batterij is een probleem, na 30-45 minuten rijden is de batterij plat. We houden de optie open om een zwaardere batterij te gebruiken die compatibel is met de schakeling die we zullen gebruiken.
 
 ## Extra info
+
 Bert Deseine - docent elektronica in de opleiding zorgtech (handleiding)
 Benjamin Van Der Smissen - docente project in de opleiding zorgtech
 Sofie Vanmaercke - OH zorgtech
