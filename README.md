@@ -11,7 +11,7 @@ The overall goal is to increase children with limited mobility by changing the t
 
 - [Alberiek Depreytere](https://github.com/AlberiekDepreytere)
 - [Vic Verbiest]
-- [Lynn Delaere]
+- [Lynn Delaere](https://github.com/LynnDelaere)
 - [Bavo Lezy]
 
 ## Features
