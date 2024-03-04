@@ -68,3 +68,9 @@ Maak een duidelijk onderscheid tussen de linker en rechter deur. Vijs de twee vi
 Maak een duidelijk onderscheid tussen de linker en rechter spiegel. Klik deze vast in de voorziene opening van de deur.
 
 ***Nog foto's toevoegen***
+
+### Windschild
+
+Lijn het windscherm met de positie van de carrosserie en klik deze vast.
+
+## Waarschuwingen
