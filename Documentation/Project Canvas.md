@@ -33,8 +33,8 @@ This project will be a succes if we can create an easy assembly kit to modify th
 ## Team
 
 - Alberiek Depreytere: Hardware engineer, Scrum master
-- Vic Verbiest: AANVULLEN
-- Bavo Lezy: AANVULLEN
+- Vic Verbiest: ***AANVULLEN***
+- Bavo Lezy: ***AANVULLEN***
 - Lynn Delaere: Administration and communication
 
 ## Stakeholders
