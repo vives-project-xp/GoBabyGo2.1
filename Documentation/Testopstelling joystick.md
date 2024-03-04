@@ -7,4 +7,5 @@ Elke LED werd voorzien van een weerstand met een weerstandswaarde van 560 ohm om
 
 In dit filmpje is de testopstelling te zien en de werking van de joystick.
 
-<video src="/Images/JoystickSchakeling.mp4" width="320" height="240"></video>
+https://github.com/vives-project-xp/GoBabyGo2.1/assets/140738348/114d1432-ddc6-4e2f-8776-aefe02c559a6
+
