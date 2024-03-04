@@ -1,0 +1,9 @@
+# Testing joystick
+
+Er werd een testopstelling gemaakt met de digitale joystick om deze te testen op werking. De verschillende schakelaars werden gecontroleerd. Dit gebeurde aan de hand van het aansturen van LED's die parallel werden geschakeld met de joystick.
+De joystick werd aangestuurd met een generator (Keysight EDU 34450 Toestel nummer 10) die ingesteld werd op 12V. Er werd eveneens een multimeter (Keysight EDU 34450 Toetel nummer 10) gebruikt om de spanning over de schakeling te meten.
+Elke LED werd voorzien van een weerstand met een weerstandswaarde van 560 ohm om de LED's te beschermen.
+
+In dit filmpje is de testopstelling te zien en de werking van de joystick.
+
+<video src="/Images/JoystickSchakeling.mp4" width="320" height="240"></video>
