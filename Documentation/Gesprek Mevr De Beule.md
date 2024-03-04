@@ -35,4 +35,4 @@ Er zijn enkele problemen met de batterij. Dit tijdens het opladen, de killswitch
 
 Bert Deseine - docent elektronica in de opleiding zorgtech (handleiding)
 Benjamin Van Der Smissen - docente project in de opleiding zorgtech
-Sofie Vanmaercke - OH zorgtech 
+Sofie Vanmaercke - OH zorgtech
