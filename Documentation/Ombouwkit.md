@@ -64,7 +64,8 @@ In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je
 
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.   
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/9b8b00c3-da75-482f-bfa3-c3755f0f0ce6)
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/883b7170-6677-4d84-a7ff-abd6497750ac)
+
 
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
 Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.    
