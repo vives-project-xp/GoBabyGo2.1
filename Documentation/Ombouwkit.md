@@ -1,13 +1,21 @@
 # Handleiding ombouwkit
 ## inhoud
 1 Benodigdheden
+
 2 Aanpassingen
+
 2.1 Uitpakken 
+
 2.2 Batterij test
+
 2.3 Stuur
+
 2.4 Kill-switch
+
 2.5 Deuren en spiegels
+
 2.6 Houder afstandsbediening
+
 2.7 Stuur
 ## 1 Benodigdheden
 
