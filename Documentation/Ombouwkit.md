@@ -55,10 +55,13 @@ In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je
 
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
+***foto***
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
-Maak het dashboard los, dit doe je door de twee vijzen aangeduid op en los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.
+Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.
+***foto***
 Nu het dashboard er af is trek je de paarse kabels omhoog. Steek de kabels door de kabelgoot van het dashboard en plaats het dashboard weer op de auto. Vervolgens vijs je het weer vast.  
-Knip de kabels (rood, geel en zwart) door boven de krimpkous. Vervolgens trek je de krimpkous over de draden. Deze verwarm je met een aansteker of met de soldeerbout tot deze aan de kabels gesmolten is.
+Knip de kabels (rood, geel en zwart) door boven de krimpkous.
+Vervolgens trek je de krimpkous over de draden. Deze verwarm je met een aansteker of met de soldeerbout tot deze aan de kabels gesmolten is.
 Strip vervolgens met de striptang de kabels van de connector. Draai vervolgens het vrijgekomen koper van de zwarte en gele kabel samen en de rode kabel apart. Breng vervolgens op beide uiteinden soldeertin met behulp van de soldeerbout. Soldeer daarna ook de twee paarse draden die je door de stuurkolom getrokken hebt.
 Breng vervolgens 2 krimpkousen (3-4cm) over de paarse kabels, wij hebben gekozen om met 2 kleuren te werken (roze en zwart). Vervolgens solderen we de geel/zwarte kabel aan de paarse kabel met de zwarte krimpkous en de rode kabel aan de paarse kabel met roze krimpkous.  
 Trek vervolgens de krimpkousen over de koperen schakeling. Verwarm ze met een aansteker of soldeerbout zodat ze de gesoldeerde connectie isoleren.  
@@ -69,6 +72,7 @@ Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuu
 ### 2.4 Kill- Switch
 
 Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/c981fab3-5b9e-4ce5-90db-29e628dcb3a8)
 
 Vervolgens hang je een draad met behulp van het solderen aan de kill-switch. Een draad hang je aan een van de buitenste pinnen en een aan de middelste pin. Vervolgens bescherm je de gesoldeerde delen met behulp van krimpkousen. Daarna stop je de kill-switch door het gat dat je eerder gemaakt had. Steek vervolgens de draad die aan je kill-switch hangt door de voorziene holte van de kabels van de lichten, deze komt dat terecht in de ruimte onder de stoel. 
 Vervolgens kijk je in de ruimte waar de stoel moet op komen. Hier disconnect je eerst de batterij indien je dit nog niet hebt gedaan. Daarna lokaliseer je de rode draad van de pluspool. Hier knip je in het midden van de rode draad zorg dat je voldoende draad overlaat aan de batterijconnector en de smeltveiligheid. Vervolgens strip je alle twee de kanten van het draadje.  
