@@ -34,7 +34,7 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Soldeertin
 * Kabelbinders
 * Wago's 
-* ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/ad9dad64-6892-4dfb-bcb6-12b4fc22db49)
+  *![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/ad9dad64-6892-4dfb-bcb6-12b4fc22db49)
 
 * Joystick
 * Lusterklem
@@ -47,7 +47,8 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 ### 2.1 Auto uitpakken
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft. Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
-*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/85bc2695-5b8c-48f4-834c-5132c67ae9ec)
+*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4957476c-47d5-41f5-a383-974367e9bd32)
+
 
 
 ### 2.2 Batterij test
