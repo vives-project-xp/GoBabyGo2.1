@@ -34,7 +34,7 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Soldeertin
 * Kabelbinders
 * Wago's                                                 
-*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/7de47d73-1c67-44b5-827c-97e806b8e04a)
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/7de47d73-1c67-44b5-827c-97e806b8e04a)
 
 * Joystick
 * Lusterklem
@@ -46,15 +46,15 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 ### 2.1 Auto uitpakken
 
-Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft. Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
-*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4957476c-47d5-41f5-a383-974367e9bd32)
+Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft. Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.     
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4957476c-47d5-41f5-a383-974367e9bd32)
 
 
 
 ### 2.2 Batterij test
 
-In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.
-*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/049f4aee-8992-4ad6-850a-14fb2b509424)
+In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.       
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/049f4aee-8992-4ad6-850a-14fb2b509424)
 
 ***Nog foto's aan toe te voegen***
 
