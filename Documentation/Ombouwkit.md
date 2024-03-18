@@ -30,7 +30,9 @@ Pak de auto uit, leg alle attributen aan de kant en zorg ervoor dat je niets kwi
 Plaats de auto zo voor je dat de neus van de auto aan je rechter kant staat.
 Gooi het afval in de desbetreffende vuilbak.
 
-***Nog foto's aan toe te voegen***
+***Nog foto's aan toe te voegen***Afbeelding met binnen, gereedschap, kist
+
+Automatisch gegenereerde beschrijving
 
 ### Batterij testen
 
