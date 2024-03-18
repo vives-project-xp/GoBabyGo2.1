@@ -55,7 +55,8 @@ Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets ach
 
 In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.     
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/2e8922d8-6607-430a-931f-68ecc3db700d)
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/0836c9e7-4123-4a9f-a5b8-6220159a7bf3)
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4de00d15-c72e-4a49-87b8-20a722140047)
+
 
 
 ***Nog foto's aan toe te voegen***
