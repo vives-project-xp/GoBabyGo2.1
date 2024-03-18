@@ -42,10 +42,7 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 ### 2.1 Auto uitpakken
 
-Pak de auto uit, leg alle attributen aan de kant en zorg ervoor dat je niets kwijtgeraakt.
-Plaats de auto zo voor je dat de neus van de auto aan je rechter kant staat.
-Gooi het afval in de desbetreffende vuilbak.
-
+Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft. Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
 ***Nog foto's aan toe te voegen***
 
 ### 2.2 Batterij test
