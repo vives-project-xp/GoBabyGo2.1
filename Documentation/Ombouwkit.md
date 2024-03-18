@@ -109,7 +109,8 @@ Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch 
 ### 2.7 Wielen
 
 Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.    
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/40bb00ee-407f-4065-8009-4a6878f920c0)
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/232399e5-742b-406c-a68c-beb52e947fcd)
+
 
 Vervolgens plaatsen we de voorwielen. Plaats eerst een rondeel op de as, schuif er op en plaats nog een rondeel. Het wiel mag niet los zitten, indien het wil los zit moet er nog een rondeel bijgestoken worden. Plaats de steekpin in het gat van de as en buig met behulp van een bektang de beentjes van de steekpin, elk in een andere richting voor extra stevigheid. Klik alle velgen op de wielen.
 
