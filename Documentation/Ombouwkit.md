@@ -4,7 +4,7 @@
 
 2 Aanpassingen
 
-   2.1 Uitpakken 
+  * 2.1 Uitpakken 
 
    2.2 Batterij test
 
