@@ -6,17 +6,17 @@
 
   * 2.1 Uitpakken 
 
-   2.2 Batterij test
+  * 2.2 Batterij test
 
-   2.3 Stuur
+  * 2.3 Stuur
 
-   2.4 Kill-switch
+  * 2.4 Kill-switch
 
-   2.5 Deuren en spiegels
+  * 2.5 Deuren en spiegels
 
-   2.6 Houder afstandsbediening
+  * 2.6 Houder afstandsbediening
 
-   2.7 Stuur
+  * 2.7 Stuur
 ## 1 Benodigdheden
 
 Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In die hieronder bijgevoegde lijst vind je de benodigdheden.
