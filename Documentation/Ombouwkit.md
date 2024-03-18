@@ -14,7 +14,7 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Krimpkous
 * Soldeertin
 * Kabelbinders
-* Wacco's
+* Wago's  ***foto wago of hyperlink wago***
 * Poprivetten
 * Joystick
 * Lusterklem
