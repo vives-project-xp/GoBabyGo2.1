@@ -25,8 +25,8 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Kniptang
 * Lijmpistool + lijm
 * Striptang
-* Pop rivet tang + Poprivetten   ***foto of hyperlink***
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/3a5fe287-8b45-444d-aeb4-c7f339491503)
+* Pop rivet tang + Poprivetten   
+*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/3a5fe287-8b45-444d-aeb4-c7f339491503)
 
 * Bektang
 * Kabels
