@@ -33,7 +33,9 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Krimpkous
 * Soldeertin
 * Kabelbinders
-* Wago's  ***foto of hyperlink***
+* Wago's 
+* ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/ad9dad64-6892-4dfb-bcb6-12b4fc22db49)
+
 * Joystick
 * Lusterklem
 * Kabelschoen
@@ -45,11 +47,13 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 ### 2.1 Auto uitpakken
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft. Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
-***Nog foto's aan toe te voegen***
+*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/85bc2695-5b8c-48f4-834c-5132c67ae9ec)
+
 
 ### 2.2 Batterij test
 
 In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.
+*![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/049f4aee-8992-4ad6-850a-14fb2b509424)
 
 ***Nog foto's aan toe te voegen***
 
