@@ -34,7 +34,8 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Soldeertin
 * Kabelbinders
 * Wago's 
-  *![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/ad9dad64-6892-4dfb-bcb6-12b4fc22db49)
+![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/7de47d73-1c67-44b5-827c-97e806b8e04a)
+
 
 * Joystick
 * Lusterklem
