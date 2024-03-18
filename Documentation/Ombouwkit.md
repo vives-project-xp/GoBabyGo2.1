@@ -63,11 +63,11 @@ In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je
 ### 2.3 Stuur
 
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
-Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
+Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.   
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/9b8b00c3-da75-482f-bfa3-c3755f0f0ce6)
 
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
-Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.
+Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.    
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/6d738794-9d25-4888-8b84-74be72f1bc1f)
 
 Nu het dashboard er af is trek je de paarse kabels omhoog. Steek de kabels door de kabelgoot van het dashboard en plaats het dashboard weer op de auto. Vervolgens vijs je het weer vast.  
@@ -82,7 +82,7 @@ Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuu
 
 ### 2.4 Kill- Switch
 
-Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.
+Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.      
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/c981fab3-5b9e-4ce5-90db-29e628dcb3a8)
 
 Vervolgens hang je een draad met behulp van het solderen aan de kill-switch. Een draad hang je aan een van de buitenste pinnen en een aan de middelste pin. Vervolgens bescherm je de gesoldeerde delen met behulp van krimpkousen. Daarna stop je de kill-switch door het gat dat je eerder gemaakt had. Steek vervolgens de draad die aan je kill-switch hangt door de voorziene holte van de kabels van de lichten, deze komt dat terecht in de ruimte onder de stoel. 
@@ -93,21 +93,21 @@ Vervolgens soldeer je de geknipte kant van het losse stuk aan een van de draadje
 ### 2.5 Deuren en spiegels
 
 Om de deuren te plaatsen vijs je eerst de twee vijzen naast het dashboard uit het autootje. Vervolgens plaats je de deur op het autootje en vijs je de twee vijsjes weer door de deur en de gaatjes.  
-Vervolgens klik je de spiegels op de deurtjes, deze kan je maar op 1 manier in het deurtje klikken.
+Vervolgens klik je de spiegels op de deurtjes, deze kan je maar op 1 manier in het deurtje klikken.      
 
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/0d0ef887-d4ac-4353-bdea-177488cbf008)
 
 
 ### 2.6 houder afstandsbediening
 Plaats de houder voor de afstandsbediening op deze manier op het autootje. Dit doe je het best met een lijmpistool. En een bout en moer. In de print is een gat voorzien voor een bout en moer. Deze steek je in de print en door de auto. Vervolgens lijm je de print ook vast als versteviging.
-Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch bedienbaar blijft.
+Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch bedienbaar blijft.  
 
 
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/81264b98-091c-4054-8424-2d044deac2c0)
 
 ### 2.7 Wielen
 
-Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.
+Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.    
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/40bb00ee-407f-4065-8009-4a6878f920c0)
 
 Vervolgens plaatsen we de voorwielen. Plaats eerst een rondeel op de as, schuif er op en plaats nog een rondeel. Het wiel mag niet los zitten, indien het wil los zit moet er nog een rondeel bijgestoken worden. Plaats de steekpin in het gat van de as en buig met behulp van een bektang de beentjes van de steekpin, elk in een andere richting voor extra stevigheid. Klik alle velgen op de wielen.
