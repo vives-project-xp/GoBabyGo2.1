@@ -46,11 +46,11 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 
 ![Aangesloten batterij](/Images/Connector_Batterij.jpg "Aansluiting batterij")
 
-### 2.3 Stuur
+### Stuur
 
+De besturing van de auto wordt volledig vervangen door een joystick. 
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/883b7170-6677-4d84-a7ff-abd6497750ac)
 
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
 Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.
@@ -66,6 +66,8 @@ Vervolgens kan je testen of je de schakeling goed gemaakt hebt. Hang het schakel
 Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuur zit een grote bout en moer. Deze moer steek je aan de ene kant in het stuur, hiervoor is een gat voorzien. Aan de andere kant steek je de bout erdoor en span je deze goed aan. Deze bout moet door de zwarte stang van de stuurkolom zitten (gaten voorzien).  
 
 ### 2.4 Kill- Switch
+
+<!-- Killswitch op gaspedaal -->
 
 Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/c981fab3-5b9e-4ce5-90db-29e628dcb3a8)
