@@ -48,7 +48,7 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 
 ### Stuur
 
-De besturing van de auto wordt volledig vervangen door een joystick. 
+De besturing van de auto wordt volledig vervangen door een joystick.
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
 
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.  
@@ -56,7 +56,6 @@ Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
 ![kabelgoot](/Images/Kabelgoot.jpg "kabelgoot")
 
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
-
 
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
 Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.  
