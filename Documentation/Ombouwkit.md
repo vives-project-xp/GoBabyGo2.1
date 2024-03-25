@@ -28,17 +28,17 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 ### Auto uitpakken
 
-Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.
+Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.  
 
 ![Uitpakken auto](/Images/Uitpakken_Auto.jpg "Auto in doos")
 
-Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
+Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.  
 
 ![Uitgepakte auto](/Images/Uitgepakte_Auto.jpg "Uitgepakte auto")
 
 ### Batterij test
 
-In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.
+In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.  
 
 ![Batterij](/Images/Batterij_Aansluiting.jpg "Hoofdbekabeling")
 
@@ -49,12 +49,13 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 ### 2.3 Stuur
 
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
-Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/883b7170-6677-4d84-a7ff-abd6497750ac)
+Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.  
+![kabelgoot](/Images/Kabelgoot.jpg "kabelgoot")
 
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
-Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/6d738794-9d25-4888-8b84-74be72f1bc1f)
+Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.  
+![dashboard links](/Images/Dashboard_Links.jpg "vijs linkerkant")
+![dashboard rechts](/Images/Dashboard_Rechts.jpg "vijs rechterkant")
 
 Nu het dashboard er af is trek je de paarse kabels omhoog. Steek de kabels door de kabelgoot van het dashboard en plaats het dashboard weer op de auto. Vervolgens vijs je het weer vast.  
 Knip de kabels (rood, geel en zwart) door boven de krimpkous.
@@ -67,8 +68,8 @@ Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuu
 
 ### 2.4 Kill- Switch
 
-Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/c981fab3-5b9e-4ce5-90db-29e628dcb3a8)
+Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.  
+![boren_killswitch](/Images/Boren_Killswitch.jpg "gat boren voor killswitch")
 
 Vervolgens hang je een draad met behulp van het solderen aan de kill-switch. Een draad hang je aan een van de buitenste pinnen en een aan de middelste pin. Vervolgens bescherm je de gesoldeerde delen met behulp van krimpkousen. Daarna stop je de kill-switch door het gat dat je eerder gemaakt had. Steek vervolgens de draad die aan je kill-switch hangt door de voorziene holte van de kabels van de lichten, deze komt dat terecht in de ruimte onder de stoel.
 Vervolgens kijk je in de ruimte waar de stoel moet op komen. Hier disconnect je eerst de batterij indien je dit nog niet hebt gedaan. Daarna lokaliseer je de rode draad van de pluspool. Hier knip je in het midden van de rode draad zorg dat je voldoende draad overlaat aan de batterijconnector en de smeltveiligheid. Vervolgens strip je alle twee de kanten van het draadje.  
@@ -77,22 +78,20 @@ Vervolgens soldeer je de geknipte kant van het losse stuk aan een van de draadje
 ### 2.5 Deuren en spiegels
 
 Om de deuren te plaatsen vijs je eerst de twee vijzen naast het dashboard uit het autootje. Vervolgens plaats je de deur op het autootje en vijs je de twee vijsjes weer door de deur en de gaatjes.  
-Vervolgens klik je de spiegels op de deurtjes, deze kan je maar op 1 manier in het deurtje klikken.
+Vervolgens klik je de spiegels op de deurtjes, deze kan je maar op 1 manier in het deurtje klikken.  
 
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/0d0ef887-d4ac-4353-bdea-177488cbf008)
-
+![spiegels_vastklikken](/Images/Spiegels_Vastklikken.jpg "vastklikken spiegels")
 
 ### 2.6 houder afstandsbediening
 
 Plaats de houder voor de afstandsbediening op deze manier op het autootje. Dit doe je het best met een lijmpistool. En een bout en moer. In de print is een gat voorzien voor een bout en moer. Deze steek je in de print en door de auto. Vervolgens lijm je de print ook vast als versteviging.
 Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch bedienbaar blijft.  
 
-
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/81264b98-091c-4054-8424-2d044deac2c0)
+![houder_afstandsbediening](/Images/Houder_Afstandsbediening.jpg "afstandsbeddiening houder")
 
 ### 2.7 Wielen
 
 Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/232399e5-742b-406c-a68c-beb52e947fcd)
+![vastzetten achterwiel](/Images/Vastzetten_Achterwiel.jpg "achterwiel vastzetten")
 
 Vervolgens plaatsen we de voorwielen. Plaats eerst een rondeel op de as, schuif er op en plaats nog een rondeel. Het wiel mag niet los zitten, indien het wil los zit moet er nog een rondeel bijgestoken worden. Plaats de steekpin in het gat van de as en buig met behulp van een bektang de beentjes van de steekpin, elk in een andere richting voor extra stevigheid. Klik alle velgen op de wielen.
