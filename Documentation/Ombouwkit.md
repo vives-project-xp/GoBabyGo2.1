@@ -12,16 +12,12 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Lijmpistool + lijm
 * Striptang
 * Pop rivet tang + Poprivetten
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/3a5fe287-8b45-444d-aeb4-c7f339491503)
-
 * Bektang
 * Kabels
 * Krimpkous
 * Soldeertin
 * Kabelbinders
 * Wago's
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/7de47d73-1c67-44b5-827c-97e806b8e04a)
-
 * Joystick
 * Lusterklem
 * Kabelschoen
@@ -33,8 +29,11 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 ### Auto uitpakken
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.
+
 ![Uitpakken auto](/Images/Uitpakken_Auto.jpg)
+
 Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
+
 ![Uitgepakte auto](/Images/Uitgepakte_Auto.jpg)
 
 ### Batterij test
