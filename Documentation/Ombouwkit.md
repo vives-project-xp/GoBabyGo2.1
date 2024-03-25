@@ -1,7 +1,8 @@
 # Handleiding ombouwkit
 
 ## inhoud
-
+<!-- Vragenlijst met wat er nog uitgelaten kan worden -->
+<!-- Juiste volgorde bepalen wat eerst wordt gedaan -->
 ## Benodigdheden
 
 Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In die hieronder bijgevoegde lijst vind je de benodigdheden.
@@ -32,16 +33,16 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 ### Auto uitpakken
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.
-<!-- <img src="/Images/Uitpakken_Auto.jpg" alt="Ingepakte Auto" width="100" /> -->
-![Uitpakken auto.](/Images/Uitpakken_Auto.jpg |width:100)
+![Uitpakken auto](/Images/Uitpakken_Auto.jpg)
 Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4957476c-47d5-41f5-a383-974367e9bd32)
+![Uitgepakte auto](/Images/Uitgepakte_Auto.jpg)
 
 ### Batterij test
 
 In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/2e8922d8-6607-430a-931f-68ecc3db700d)
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4de00d15-c72e-4a49-87b8-20a722140047)
+![Batterij](/Images/Batterij_Aansluiting.jpg)
+![Zereking batterij](/Images/Zekering_Batterij.jpg)
+![Aangesloten batterij](/Images/Connector_Batterij.jpg)
 
 ### 2.3 Stuur
 
