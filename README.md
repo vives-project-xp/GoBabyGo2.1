@@ -27,11 +27,12 @@ to a joystick. The intention is for people without a technical background or
 technical knowledge, can convert the car using a manual.
 
 ## Project status 
-  The prototype car is functional the user manual and kit just need to be made.
+
+The prototype car is functional the user manual and kit just need to be made.
 
 ## Documentation
 
  You can find the user manual in. [ombouwkit](/Documentation/Ombouwkit.md)
  If you want to build your own converter kit you can find all the additional info in the [Yet to be made.]()
 
- //Last updatet 25/03/2024 12:00 CET
+//Last updatet 25/03/2024 12:00 CET
