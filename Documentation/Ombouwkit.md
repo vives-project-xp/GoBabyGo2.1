@@ -48,7 +48,7 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 
 ### Stuur
 
-De besturing van de auto wordt volledig vervangen door een joystick. 
+De besturing van de auto wordt volledig vervangen door een joystick.
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
 
@@ -83,12 +83,10 @@ Vervolgens klik je de spiegels op de deurtjes, deze kan je maar op 1 manier in h
 
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/0d0ef887-d4ac-4353-bdea-177488cbf008)
 
-
 ### 2.6 houder afstandsbediening
 
 Plaats de houder voor de afstandsbediening op deze manier op het autootje. Dit doe je het best met een lijmpistool. En een bout en moer. In de print is een gat voorzien voor een bout en moer. Deze steek je in de print en door de auto. Vervolgens lijm je de print ook vast als versteviging.
 Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch bedienbaar blijft.  
-
 
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/81264b98-091c-4054-8424-2d044deac2c0)
 
