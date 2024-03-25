@@ -30,7 +30,8 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.
 
-![Uitpakken auto](/Images/Uitpakken_Auto.jpg)~Figuur 1: Auto uitpakken~
+![Uitpakken auto](/Images/Uitpakken_Auto.jpg)
+~Figuur 1: Auto uitpakken~
 
 Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
 
