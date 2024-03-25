@@ -21,7 +21,7 @@ The overall goal is to make the mini-car accessible for childeren with limited m
 - To give children with disabilities the ability to drive a mini car like other children without disabilities.
 
 ## How it works
- 
+
 Every mini car can be converted into a mini car with the steering and accelerator pedals changed
 to a joystick. The intention is for people without a technical background or
 technical knowledge, can convert the car using a manual.
@@ -32,7 +32,7 @@ The prototype car is functional the user manual and kit just need to be made.
 
 ## Documentation
 
- You can find the user manual in. [ombouwkit](/Documentation/Ombouwkit.md)
- If you want to build your own converter kit you can find all the additional info in the [Yet to be made.]()
+ You can find the user manual in. [Yet to be made.]()
+ If you want to build your own, then here is the converter kit[ombouwkit](/Documentation/Ombouwkit.md) here you can find all the additional info.
 
 //Last updatet 25/03/2024 12:00 CET
