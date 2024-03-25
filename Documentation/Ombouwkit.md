@@ -50,17 +50,18 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 
 De besturing van de auto wordt volledig vervangen door een joystick. 
 We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
-<<<<<<< HEAD
+
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.  
+
 ![kabelgoot](/Images/Kabelgoot.jpg "kabelgoot")
-=======
+
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
->>>>>>> 0af9bb496e35060bf31e0803582b04e779859a77
+
 
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
 Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.  
 ![dashboard links](/Images/Dashboard_Links.jpg "vijs linkerkant")
-![dashboard rechts](/Images/Dashboard_Rechts.jpg "vijs rechterkant")
+![dashboard rechts](/Images/Dashboard_Rechts.jpg "vijs rechterkant")  
 
 Nu het dashboard er af is trek je de paarse kabels omhoog. Steek de kabels door de kabelgoot van het dashboard en plaats het dashboard weer op de auto. Vervolgens vijs je het weer vast.  
 Knip de kabels (rood, geel en zwart) door boven de krimpkous.
@@ -73,15 +74,11 @@ Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuu
 
 ### 2.4 Kill- Switch
 
-<<<<<<< HEAD
 Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.  
-![boren_killswitch](/Images/Boren_Killswitch.jpg "gat boren voor killswitch")
-=======
-<!-- Killswitch op gaspedaal -->
 
-Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.
-![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/c981fab3-5b9e-4ce5-90db-29e628dcb3a8)
->>>>>>> 0af9bb496e35060bf31e0803582b04e779859a77
+![boren_killswitch](/Images/Boren_Killswitch.jpg "gat boren voor killswitch")  
+
+Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.  
 
 Vervolgens hang je een draad met behulp van het solderen aan de kill-switch. Een draad hang je aan een van de buitenste pinnen en een aan de middelste pin. Vervolgens bescherm je de gesoldeerde delen met behulp van krimpkousen. Daarna stop je de kill-switch door het gat dat je eerder gemaakt had. Steek vervolgens de draad die aan je kill-switch hangt door de voorziene holte van de kabels van de lichten, deze komt dat terecht in de ruimte onder de stoel.
 Vervolgens kijk je in de ruimte waar de stoel moet op komen. Hier disconnect je eerst de batterij indien je dit nog niet hebt gedaan. Daarna lokaliseer je de rode draad van de pluspool. Hier knip je in het midden van de rode draad zorg dat je voldoende draad overlaat aan de batterijconnector en de smeltveiligheid. Vervolgens strip je alle twee de kanten van het draadje.  
