@@ -101,6 +101,6 @@ Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch 
 
 Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.  
 
-![vastzetten achterwiel](/Images/Vastzetten_Achterwiel.jpg "achterwiel vastzetten")
+![vastzetten achterwiel](/Images/Vastzetten_Achterwiel.png "achterwiel vastzetten")
 
 Vervolgens plaatsen we de voorwielen. Plaats eerst een rondeel op de as, schuif er op en plaats nog een rondeel. Het wiel mag niet los zitten, indien het wil los zit moet er nog een rondeel bijgestoken worden. Plaats de steekpin in het gat van de as en buig met behulp van een bektang de beentjes van de steekpin, elk in een andere richting voor extra stevigheid. Klik alle velgen op de wielen.
