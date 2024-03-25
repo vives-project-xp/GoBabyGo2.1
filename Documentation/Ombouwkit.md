@@ -32,8 +32,8 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 ### Auto uitpakken
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.
-<img src="/Images/Uitpakken_Auto.jpg" alt="Ingepakte Auto" width="100" />
-<!-- ![Uitpakken auto.](/Images/Uitpakken_Auto.jpg |width:100) -->
+<!-- <img src="/Images/Uitpakken_Auto.jpg" alt="Ingepakte Auto" width="100" /> -->
+![Uitpakken auto.](/Images/Uitpakken_Auto.jpg |width:100)
 Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
 ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/4957476c-47d5-41f5-a383-974367e9bd32)
 
