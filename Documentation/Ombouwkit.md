@@ -72,7 +72,7 @@ Trek vervolgens de krimpkousen over de koperen schakeling. Verwarm ze met een aa
 Vervolgens kan je testen of je de schakeling goed gemaakt hebt. Hang het schakelstuk aan het schakelstuk van het stuur. Vervolgens druk je op de twee knoppen en dan zou de auto moeten rijden. Zorg wel dat de auto aan staat en dat de schakelaar op forward of backward staat. Als de auto rijdt, kan je verder. Anders zal er waarschijnlijk een schakeling een slecht contact hebben.  
 Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuur zit een grote bout en moer. Deze moer steek je aan de ene kant in het stuur, hiervoor is een gat voorzien. Aan de andere kant steek je de bout erdoor en span je deze goed aan. Deze bout moet door de zwarte stang van de stuurkolom zitten (gaten voorzien).  
 
-### 2.4 Kill- Switch
+### Kill- Switch
 
 Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.  
 
@@ -84,21 +84,21 @@ Vervolgens hang je een draad met behulp van het solderen aan de kill-switch. Een
 Vervolgens kijk je in de ruimte waar de stoel moet op komen. Hier disconnect je eerst de batterij indien je dit nog niet hebt gedaan. Daarna lokaliseer je de rode draad van de pluspool. Hier knip je in het midden van de rode draad zorg dat je voldoende draad overlaat aan de batterijconnector en de smeltveiligheid. Vervolgens strip je alle twee de kanten van het draadje.  
 Vervolgens soldeer je de geknipte kant van het losse stuk aan een van de draadjes van de kill-switch. Daarna soldeer je het andere draadje van de kill-switch aan de andere kant van het geknipte rode draadje. Daarna klik je het draadje terug aan de batterij. Vervolgens kan je testen of je kill-switch werkt. Je steekt de auto aan, als je kill-switch is open is zal de auto niet starten. Is de kill-switch gesloten, dan zal de auto starten.
 
-### 2.5 Deuren en spiegels
+### Deuren en spiegels
 
 Om de deuren te plaatsen vijs je eerst de twee vijzen naast het dashboard uit het autootje. Vervolgens plaats je de deur op het autootje en vijs je de twee vijsjes weer door de deur en de gaatjes.  
 Vervolgens klik je de spiegels op de deurtjes, deze kan je maar op 1 manier in het deurtje klikken.  
 
 ![spiegels_vastklikken](/Images/Spiegels_Vastklikken.jpg "vastklikken spiegels")
 
-### 2.6 houder afstandsbediening
+### houder afstandsbediening
 
 Plaats de houder voor de afstandsbediening op deze manier op het autootje. Dit doe je het best met een lijmpistool. En een bout en moer. In de print is een gat voorzien voor een bout en moer. Deze steek je in de print en door de auto. Vervolgens lijm je de print ook vast als versteviging.
 Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch bedienbaar blijft.  
 
 ![houder_afstandsbediening](/Images/Houder_Afstandsbediening.jpg "afstandsbeddiening houder")
 
-### 2.7 Wielen
+### Wielen
 
 Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.
 ![vastzetten achterwiel](/Images/Vastzetten_Achterwiel.jpg "achterwiel vastzetten")
