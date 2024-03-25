@@ -12,7 +12,7 @@ The overall goal is to make the mini-car accessible for childeren with limited m
 - [Alberiek Depreytere](https://github.com/AlberiekDepreytere)
 - [Vic Verbiest](https://github.com/Vic-Verbiest)
 - [Lynn Delaere](https://github.com/LynnDelaere)
-- [Bavo Lezy]
+- [Bavo Lezy](https://github.com/bavolezy)
 
 ## Features
 
