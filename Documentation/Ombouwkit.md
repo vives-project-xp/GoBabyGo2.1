@@ -30,7 +30,7 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 Haal de auto uit zijn doos, ruim alle spullen op en zorg ervoor dat er niets achterblijft.
 
-![Uitpakken auto](/Images/Uitpakken_Auto.jpg)
+![Uitpakken auto](/Images/Uitpakken_Auto.jpg)~Figuur 1: Auto uitpakken~
 
 Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
 
@@ -39,8 +39,11 @@ Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer 
 ### Batterij test
 
 In de linker kant van de auto bevind zich de bak met draden. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest zodat er veilig kan gewerkt worden.
+
 ![Batterij](/Images/Batterij_Aansluiting.jpg)
+
 ![Zereking batterij](/Images/Zekering_Batterij.jpg)
+
 ![Aangesloten batterij](/Images/Connector_Batterij.jpg)
 
 ### 2.3 Stuur
