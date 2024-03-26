@@ -48,16 +48,13 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 
 ### Stuur
 
-De besturing van de auto wordt volledig vervangen door een joystick.
-We zorgen ervoor dat het kind gas kan geven door op een drukknop op het stuur te drukken. Deze drukknop is gemaakt met een 3D-printer.
-
-Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.  
+Het stuur dient niet bevestigd te worden op de auto gezien deze volledig vervangen wordt door een joystick. De joystick zal de werking van het gaspedaal en het stuur volledig over nemen.
+Bevestig de 3D prints op het dashboard, eerst dient het ronde hoge ronde stuk bevestigd te worden, dit in de inkeping van het dashboard.
+<!-- Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.  
 
 ![kabelgoot](/Images/Kabelgoot.jpg "kabelgoot")
 
 Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
-
-
 Vervolgens zoeken we de draden die naar de accelerator lopen, bij deze autootjes zijn dat de paarse draden. Deze knip je zo dicht mogelijk bij de accelerator door. Vervolgens duw je de kabeltjes naar boven en vijs de kabelgoot weer toe en draai je de auto om.  
 Maak het dashboard los, dit doe je door de twee vijzen los te vijzen. Als de vijzen los zijn, kan je dashboard losmaken door het van de motorkap weg en omhoog te trekken.  
 ![dashboard links](/Images/Dashboard_Links.jpg "vijs linkerkant")
@@ -70,7 +67,7 @@ Strip vervolgens met de striptang de kabels van de connector. Draai vervolgens h
 Breng vervolgens 2 krimpkousen (3-4cm) over de paarse kabels, wij hebben gekozen om met 2 kleuren te werken (roze en zwart). Vervolgens solderen we de geel/zwarte kabel aan de paarse kabel met de zwarte krimpkous en de rode kabel aan de paarse kabel met roze krimpkous.  
 Trek vervolgens de krimpkousen over de koperen schakeling. Verwarm ze met een aansteker of soldeerbout zodat ze de gesoldeerde connectie isoleren.  
 Vervolgens kan je testen of je de schakeling goed gemaakt hebt. Hang het schakelstuk aan het schakelstuk van het stuur. Vervolgens druk je op de twee knoppen en dan zou de auto moeten rijden. Zorg wel dat de auto aan staat en dat de schakelaar op forward of backward staat. Als de auto rijdt, kan je verder. Anders zal er waarschijnlijk een schakeling een slecht contact hebben.  
-Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuur zit een grote bout en moer. Deze moer steek je aan de ene kant in het stuur, hiervoor is een gat voorzien. Aan de andere kant steek je de bout erdoor en span je deze goed aan. Deze bout moet door de zwarte stang van de stuurkolom zitten (gaten voorzien).  
+Vervolgens klik je de schakeling van het stuur aan die van de auto. Aan het stuur zit een grote bout en moer. Deze moer steek je aan de ene kant in het stuur, hiervoor is een gat voorzien. Aan de andere kant steek je de bout erdoor en span je deze goed aan. Deze bout moet door de zwarte stang van de stuurkolom zitten (gaten voorzien).   -->
 
 ### Kill- Switch
 
@@ -101,6 +98,6 @@ Deze houders staat ook een beetje boven de kill-switch. Zorg dat de kill-switch 
 ### Wielen
 
 Om de wielen te bevestigen hebben we volgened materiaal nodig: de 4 wielen, de 4 velgen en de 4 rondellen. Maak het onderscheid tussen het voor en achterwielen. Dit is duidelijk te zien op de figuur. Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan. Schruif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as. Buig met behulp van een bektang beide beentjes van de steekpin, elk in een andere richting voor extra stevigheid.
-![vastzetten achterwiel](/Images/Vastzetten_Achterwiel.jpg "achterwiel vastzetten")
+![vastzetten achterwiel](/Images/Vastzetten_Achterwiel.png "achterwiel vastzetten")
 
 Vervolgens plaatsen we de voorwielen. Plaats eerst een rondeel op de as, schuif er op en plaats nog een rondeel. Het wiel mag niet los zitten, indien het wil los zit moet er nog een rondeel bijgestoken worden. Plaats de steekpin in het gat van de as en buig met behulp van een bektang de beentjes van de steekpin, elk in een andere richting voor extra stevigheid. Klik alle velgen op de wielen.
