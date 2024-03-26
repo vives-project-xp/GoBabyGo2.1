@@ -9,5 +9,4 @@ In dit filmpje is de testopstelling te zien en de werking van de joystick.
 
 https://github.com/vives-project-xp/GoBabyGo2.1/assets/140738348/114d1432-ddc6-4e2f-8776-aefe02c559a6
 
-
-  ![image](https://github.com/vives-project-xp/GoBabyGo2.1/assets/145467553/3729af48-99c6-4e9a-84ed-0f41634695e2)
+  ![joysticktestopstelling](/Images/joysticktestopstellingschema.png "schema joystick testopstelling")
