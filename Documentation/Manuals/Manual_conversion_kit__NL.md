@@ -38,7 +38,8 @@ Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer 
 
 ### Batterij test
 
-In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, deze is nog niet aangesloten. Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt worden.  
+In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, deze is nog niet aangesloten. 
+Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten. Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt worden.  
 
 ![Batterij](/Images/Batterij_Aansluiting.jpg "Hoofdbekabeling")
 

@@ -48,7 +48,6 @@ In the left side of the car, you'll find the main wiring of the vehicle. Inside 
 ### Steering
 
 The steering wheel does not need to be attached to the car as it will be entirely replaced by a joystick. The joystick will take over the functions of the accelerator pedal and the steering.
-
 Attach the 3D prints to the dashboard accordingly, first goes the high round piece that fits into the dashboard's notch. Then goes the <!--Nog verder aan te vullen-->
 
 ### Kill-Switch
