@@ -118,7 +118,7 @@ Maak het onderscheid tussen de voor en achterwielen, de voorwielen hebben een ui
 Schuif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as.
  Buig met behulp van een bektang beide benen van de steekpin, elk in een andere richting voor extra stevigheid.
 
-![Bevestiging achterwiel](/Images/Bevestiging_Achterwiel.jpg.png "Bevestigen achterwiel")
+![Bevestiging achterwiel](/Images/Bevestiging_Achterwiel.jpg "Bevestigen achterwiel")
 ![Vastzetten achterwiel](/Images/Vastzetten_Achterwiel.png "Vastzetten achterwiel met steekpin")
 
 Vervolgens plaatsen we de voorwielen. Plaats eerst een rondel op de as, schuif daarna het wiel op de as en plaats nog een rondel.
