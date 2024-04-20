@@ -1,6 +1,8 @@
 # Handleiding ombouwkit
 
-## inhoud
+<!--Hier komt in hoe ze de ombouwkit moeten installeren bij een ride on car-->
+
+## Inhoud
 
 <!-- Juiste volgorde bepalen wat eerst wordt gedaan -->
 ## Benodigdheden
