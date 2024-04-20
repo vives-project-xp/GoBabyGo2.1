@@ -5,6 +5,7 @@
 
     * Onderdelen
     * Materiaal
+    * Materiaal
     * Tools
     * Handleiding
     * 
