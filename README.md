@@ -2,29 +2,29 @@
 
 ## About
 
-Welcome to the project Go Baby Go 2.1
-This project was created as part of the Project Experience course at [VIVES University of Applied Sciences](https://www.vives.be/en).  
-The main goal of this project is to create a working product out of the previous proof of concept [GoBabyGo2.0](https://github.com/vives-project-xp/GoBabyGo2.0), a conversion kit and user manual for a standard mini-car.
-The overall goal is to make the mini-car accessible for childeren with limited mobility by turning the gas pedal and steeringwheel into a joystick that is usable for them. When the caretaker (parents/supervisor/nurse/...) needs to interfere they can, by using the remote controller.
+Go Baby Go 2.1 is an innovative project that aims to enhance the mobility and independence of children with disabilities.
+This project was created as part of the Project Experience course at [VIVES University of Applied Sciences](https://www.vives.be/en), in collaboration with the Ergotherapy program. This project focuses on adapting mini-cars to meet the specific needs of these children.
+The main goal of this project is to create a working product out of the previous proof of concept [GoBabyGo2.0](https://github.com/vives-project-xp/GoBabyGo2.0), where the functions of the steeringweel and the gaspedal are replaced by a joystick.
+By creating adaptable vehicle kits and comprehensive instructions, the project strives to empower caregivers and non-technical individuals to customize cars for children with ease.
 
 ## The team
 
-- [Alberiek Depreytere](https://github.com/AlberiekDepreytere)
-- [Vic Verbiest](https://github.com/Vic-Verbiest)
-- [Lynn Delaere](https://github.com/LynnDelaere)
-- [Bavo Lezy](https://github.com/bavolezy)
+- [Alberiek Depreytere](https://github.com/AlberiekDepreytere) <!--Beschrijving rol toevoegen-->
+- [Vic Verbiest](https://github.com/Vic-Verbiest) <!--Beschrijving rol toevoegen-->
+- [Lynn Delaere](https://github.com/LynnDelaere): Maintain documentation and support developers
+- [Bavo Lezy](https://github.com/bavolezy) <!--Beschrijving rol toevoegen-->
 
 ## Features
 
+- Assembly kit development
+- Comprehensive manual
+- Implementing joystick as steering
 - Standalone with interference from controller
-- Easy to install for user
-- To give children with disabilities the ability to drive a mini car like other children without disabilities.
 
 ## How it works
 
-Every mini car can be converted into a mini car with the steering and accelerator pedals changed
-to a joystick. The intention is for people without a technical background or
-technical knowledge, can convert the car using a manual.
+The project focusses on developing a user-friendly assembly kit with easy to follow instructions for converting standard mini-cars into accessible vehicles for children with disabilities. The function of the steering wheel and accelerator pedals are replaced by a joystick.
+The assembly kit comes with easy to follow instructions so the assembly kit can be made and added to the package of the car. Every car comes then with a conversion manual so the assembly kit can easily be installed on the car. The assembly kit is engineered with user-friendly design principles, ensuring accessibility for individuals without prior experience in electronics.
 
 ## Project status
 
