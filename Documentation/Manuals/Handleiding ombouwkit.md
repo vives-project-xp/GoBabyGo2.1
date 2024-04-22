@@ -65,13 +65,11 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 
 ### Stap 1
 
-Ontmantel de rode en zwarte draden zodat ongeveer 1cm plastic van de draad verwijderd is en hang aan de uiteinde van de draden de kabelschoenen<!--aantal draden en welk kleur draden nog te bepalen-->. Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.
+Ontmantel de rode en zwarte draden zodat ongeveer 1cm plastic van de draad verwijderd is en hang aan de uiteinde van de draden de kabelschoenen<!--aantal draden en welk kleur draden nog te bepalen-->.
 
 ### Stap 2
 
-
-<!--Dit stuk moet bij de handleiding voor installatie van ombouwkit-->
-Plaats het 3D stuk met de halve maan uitstulping op de plaats waar het stuur oorspronkelijk moest komen. De kleine cilindervorm plaats je een M6 moet op de voorzien plaats in de 3D print. Schuif dit over de stuurstang en schroef dit vast met een metaalschroef. Dit voorkomt dat de stuurstang zak
+Verbind de draad voor de linkse richting met de motor driver op pin IN1 en de draad voor de rechtse beweging op pin IN2. Verbind daarna een rode draad met output1 en een gele draad met output2 dit om tijdens de ombouw door te verbinden met de motor. Verbind een rode draad met de Vcc, een zwarte draad voor de ground en een rode draad om 5V af te takken voor de joystick. <!--aantal draden en welk kleur draden nog te bepalen-->
 
 ### Stap 3
 
@@ -92,3 +90,7 @@ Plaats het 3D stuk met de halve maan uitstulping op de plaats waar het stuur oor
 ### Stap 11
 
 ### Stap 12
+<!--Dit klopt niet in logische opbouw van auto-->
+Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.
+<!--Dit stuk moet bij de handleiding voor installatie van ombouwkit-->
+Plaats het 3D stuk met de halve maan uitstulping op de plaats waar het stuur oorspronkelijk moest komen. De kleine cilindervorm plaats je een M6 moet op de voorzien plaats in de 3D print. Schuif dit over de stuurstang en schroef dit vast met een metaalschroef. Dit voorkomt dat de stuurstang zak
