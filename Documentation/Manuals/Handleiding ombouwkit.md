@@ -42,13 +42,16 @@ De auto wordt voorzien van een kill-switch om de stoom naar beide motoren te ond
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
 
-    *<!--maten invullen--> cm rode flexibele koper draad van <!--maten invullen--> mm dik
-    *<!--maten invullen--> cm zwarte flexibele koper draad van <!--maten invullen--> mm dik
-    *<!--hoeveelheid invullen--> lusterklemmen
+    * 3 stukken 140cm rode flexibele koper draad van <!--maten invullen--> mm dik
+    * 4 stukken 30cm rode flexibele koper draad van <!--maten invullen--> mm dik
+    * 1 stuk 140cm zwarte flexibele koper draad van <!--maten invullen--> mm dik
+    * 2 stukken 30cm zwarte flexibele koper draad van <!--maten invullen--> mm dik
+    *<!--hoeveelheid invullen--> 3 way waggo
     *<!--hoeveelheid invullen--> kabelschoenen
     *<!--hoeveelheid invullen--> kabelbinders
-    *<!--hoeveelheid invullen--> M6 moer
+    * 4 moeren maat M6
     *<!--hoeveelheid invullen--> M6 metaalschroef van <!--maten invullen-->
+    * 4 stuks schroefdraadbussen M3
 
 ## Tools
 
@@ -58,6 +61,7 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
     * Kniptang
     * Ontmanteltang
     * Kabelbinders
+    * Soldeerbout
     * <!--nog materiaal toevoegen dat nodig is-->
     * Labels om kabels te labelen
 
@@ -65,31 +69,24 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 
 ### Stap 1
 
-Ontmantel de rode en zwarte draden zodat ongeveer 1cm plastic van de draad verwijderd is en hang aan de uiteinde van de draden de kabelschoenen<!--aantal draden en welk kleur draden nog te bepalen-->.
+Steek 4 schroefdraadbussen maat M6 in de voorziene gaten van de 3D print waar de joystick wordt ingeplaatst. Dit met behulp van een soldeerbout om het plastiek wat te smelten. De soldeerbout dient een dikke punt te hebben en ingesteld worden op ongeveer 200°c. Wacht even tot de warmte wordt over gezet op de schroefdraadbus en smelt deze voorzichtig in het plastiek.
+Plaat 2 M6 moeren op de voorziene plaatsen in het 3D design van het dashboard koppelstuk op dezelfde manier als de schroefdraadbussen.
 
 ### Stap 2
 
+Ontmantel de rode en zwarte draden zodat ongeveer 1cm plastic van de draad verwijderd is.
+Hang aan de 2 lange rode draden een kabelschoen aan één uiteinde, <!--hang aan de zwarte lange draad één kabelschoen,--> hang aan de 2 korte rode draden een kabelschoen aan één uiteinde en hang aan de korte zwarte draden een kabelschoen aan één uiteinde.
+Verbind de 2 korte rode draden met een lusterklem alsook de 2 korte zwarte draden.
+
+### Stap
+
 Verbind de draad voor de linkse richting met de motor driver op pin IN1 en de draad voor de rechtse beweging op pin IN2. Verbind daarna een rode draad met output1 en een gele draad met output2 dit om tijdens de ombouw door te verbinden met de motor. Verbind een rode draad met de Vcc, een zwarte draad voor de ground en een rode draad om 5V af te takken voor de joystick. <!--aantal draden en welk kleur draden nog te bepalen-->
 
-### Stap 3
+### Stap
 
-### Stap 4
+### Stap
 
-### Stap 5
 
-### Stap 6
-
-### Stap 7
-
-### Stap 8
-
-### Stap 9
-
-### Stap 10
-
-### Stap 11
-
-### Stap 12
 <!--Dit klopt niet in logische opbouw van auto-->
 Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.
 <!--Dit stuk moet bij de handleiding voor installatie van ombouwkit-->
