@@ -50,6 +50,7 @@ In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
     *<!--hoeveelheid invullen--> kabelschoenen
     *<!--hoeveelheid invullen--> kabelbinders
     * 4 moeren maat M6
+    * 4 moeren maat M6
     *<!--hoeveelheid invullen--> M6 metaalschroef van <!--maten invullen-->
     * 4 stuks schroefdraadbussen M3
 
@@ -62,12 +63,18 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
     * Ontmanteltang
     * Kabelbinders
     * Soldeerbout
+    * Soldeerbout
     * <!--nog materiaal toevoegen dat nodig is-->
     * Labels om kabels te labelen
 
 ## Handleiding
 
-### Stap 1
+### Stap
+
+Steek 4 schroefdraadbussen maat M6 in de voorziene gaten van de 3D print waar de joystick wordt ingeplaatst. Dit met behulp van een soldeerbout om het plastiek wat soepel te maken.
+Plaats de 2 M6 moeren op de voorziene plaatsen in het 3D design van het dashboard koppelstuk, dit kan met behulp van een soldeerbout om de plastiek wat soepel te maken en in de voorziene gleuven.
+
+### Stap
 
 Steek 4 schroefdraadbussen maat M6 in de voorziene gaten van de 3D print waar de joystick wordt ingeplaatst. Dit met behulp van een soldeerbout om het plastiek wat te smelten. De soldeerbout dient een dikke punt te hebben en ingesteld worden op ongeveer 200°c. Wacht even tot de warmte wordt over gezet op de schroefdraadbus en smelt deze voorzichtig in het plastiek.
 Plaat 2 M6 moeren op de voorziene plaatsen in het 3D design van het dashboard koppelstuk op dezelfde manier als de schroefdraadbussen.
@@ -81,6 +88,11 @@ Verbind de 2 korte rode draden met een lusterklem alsook de 2 korte zwarte drade
 ### Stap
 
 Verbind de draad voor de linkse richting met de motor driver op pin IN1 en de draad voor de rechtse beweging op pin IN2. Verbind daarna een rode draad met output1 en een gele draad met output2 dit om tijdens de ombouw door te verbinden met de motor. Verbind een rode draad met de Vcc, een zwarte draad voor de ground en een rode draad om 5V af te takken voor de joystick. <!--aantal draden en welk kleur draden nog te bepalen-->
+
+### Stap
+
+### Stap
+
 
 ### Stap
 
