@@ -97,12 +97,21 @@ Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes a
 **Opmerking:**
 Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebruikt worden.
 
+![Jumper connector uiteinde](/Images/JumperConnector.jpg "Twee jumper connectors")
+![5V connector](/Images/Wago5V.jpg "Wago om de 5V door te lussen")
+![Ground connector](/Images/WagoGroundCloseUp.jpg "Wago om de ground door te lussen")
+![Ground connector full view](/Images/WagoGroundFullView.jpg "Volledig beeld ground door lussen")
+
 ### Stap 3 Verbinding motor driver
 
 Verbind 3 korte rode draden met de motordriver respectievelijk met OUT1, OUT2 en +12V verbind alle uiteinden van de draden met een wago.
 Verbind 1 korte zwarte draad met de motordriver respectievelijk met GND en verbind het uiteinde van de draad met een wago.
 Verbind de 5V draad met de 5V pin op de motordriver.
 Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de IN2. <!--Nog te controleren-->
+
+![Bovenkant motordriver](/Images/MotorDriverFront.jpg "Bovenaanzicht motordriver")
+![Onderkant motordriver](/Images/MotorDriverBack.jpg "Onderaanzicht motordriver")
+![Pin aansluiting jumper connector](/Images/ConnectIN1-IN2.jpg "Vooraanzicht motordriver")
 
 <!--Dit klopt niet in logische opbouw van auto-->
 Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.
