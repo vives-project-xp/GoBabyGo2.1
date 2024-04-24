@@ -42,62 +42,60 @@ De auto wordt voorzien van een kill-switch om de stoom naar beide motoren te ond
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
 
-    * 3 stukken 140cm rode flexibele koper draad van <!--maten invullen--> mm dik
-    * 4 stukken 30cm rode flexibele koper draad van <!--maten invullen--> mm dik
-    * 1 stuk 140cm zwarte flexibele koper draad van <!--maten invullen--> mm dik
-    * 2 stukken 30cm zwarte flexibele koper draad van <!--maten invullen--> mm dik
-    *<!--hoeveelheid invullen--> 3 way waggo
-    *<!--hoeveelheid invullen--> kabelschoenen
+    * 3 stukken 140cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
+    * 7 stukken 20cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
+    * 1 stuk 140cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
+    * 3 stukken 30cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
+    *<!--hoeveelheid invullen--> 3 klempositie wago geschikt voor geleiders met doorsnede van 4mm2
+    * 8 kabelschoenen
+    * 2 female jumper connector 
+    * 2 plastiek behuizing pin connector
     *<!--hoeveelheid invullen--> kabelbinders
-    * 4 moeren maat M6
-    * 4 moeren maat M6
-    *<!--hoeveelheid invullen--> M6 metaalschroef van <!--maten invullen-->
+    * <!--hoeveelheid invullen--> moeren maat M5
+    * <!--hoeveelheid invullen--> 4 moeren maat M5
+    * <!--hoeveelheid invullen--> M5 metaalschroef van <!--maten invullen-->
     * 4 stuks schroefdraadbussen M3
+    * 4 stuks metaalschroef M3 30mm
+    * optie: <!--aantal invullen--> aderhulzen 
 
 ## Tools
 
 Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 
-    * Platte schoevendraaier<!--maat ingeven-->
+    * Platte schoevendraaier <!--maat ingeven-->
+    * Ster schroevendraaier <!--maat ingeven-->
     * Kniptang
     * Ontmanteltang
-    * Kabelbinders
     * Soldeerbout
-    * Soldeerbout
+    * Soldeertin
+
     * <!--nog materiaal toevoegen dat nodig is-->
     * Labels om kabels te labelen
 
 ## Handleiding
 
-### Stap
+### Stap 1: 3D-prints joystick
 
-Steek 4 schroefdraadbussen maat M6 in de voorziene gaten van de 3D print waar de joystick wordt ingeplaatst. Dit met behulp van een soldeerbout om het plastiek wat soepel te maken.
-Plaats de 2 M6 moeren op de voorziene plaatsen in het 3D design van het dashboard koppelstuk, dit kan met behulp van een soldeerbout om de plastiek wat soepel te maken en in de voorziene gleuven.
+Steek 4 schroefdraadbussen van maat M3 in de daarvoor bestemde gaten van de 3D-print waar de joystick wordt geplaatst. Gebruik hiervoor een soldeerbout om het plastic voorzichtig te laten smelten. Zorg ervoor dat de soldeerbout een dikke punt heeft en ingesteld is op ongeveer 200°C. Wacht even totdat de warmte gelijkmatig wordt verdeeld en smelt de schroefdraadbus voorzichtig in het plastic.
+Bevestig op dezelfde manier een M5-moer in de 3D-print om de stuurstang vast te zetten, en plaats 2 M5-moeren op de daarvoor bestemde plaats van het dashboardkoppelstuk. Schuif 2 M5-moeren in de voorziene gleuven van het dashboardkoppelstuk.
 
-### Stap
+### Stap 2 Voorbereiding bekabeling
 
-Steek 4 schroefdraadbussen maat M6 in de voorziene gaten van de 3D print waar de joystick wordt ingeplaatst. Dit met behulp van een soldeerbout om het plastiek wat te smelten. De soldeerbout dient een dikke punt te hebben en ingesteld worden op ongeveer 200°c. Wacht even tot de warmte wordt over gezet op de schroefdraadbus en smelt deze voorzichtig in het plastiek.
-Plaat 2 M6 moeren op de voorziene plaatsen in het 3D design van het dashboard koppelstuk op dezelfde manier als de schroefdraadbussen.
+Knip 3 stukken rode flexibele draden van 140cm lang en 7 stukken van 20cm lang. Knip 1 stuk zwarte flexibele draad van 140cm lang en 3 stukken van 20cm lang. Ontmantel alle draden zodat ongeveer 1cm isolatie van de draad verwijderd is.
+Bevestig een female jumper connector aan het uiteinde van 2 lange rode flexibele draden en plaats ze in een plastic pin behuizing. Vertin het andere uiteinde en bevestig hier kabelschoentjes aan. Label de 2 kabels met respectievelijk links en rechts. Vertin beide uiteinden van de laatste lange rode draad en plaats het één uiteinde een wago-connector. Label deze kabel met 5V.
+Vertin alle uiteinden van de 7 stukken rode draad. Bevestig kabelschoentjes aan 2 korte rode draden en vertin het ander uiteinde. Plaats deze 2 rode draden samen met de lange rode draad in een wago-connector. Bevestig kabelschoentjes aan 2 korte rode draden en plaats op beide uiteinden een wago. Label deze 2 kabels met respectievelijk vooruit en achteruit.
+Vertin beide uiteinde van de lange zwarte draad en bevestig aan beide uiteinde een wago-connector. Label deze draad met ground.
+Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes aan 2 van deze draden. Plaats deze twee draden samen met een lange zwarte draad in een wago-connector.
 
-### Stap 2
+**Opmerking:**
+Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebruikt worden.
 
-Ontmantel de rode en zwarte draden zodat ongeveer 1cm plastic van de draad verwijderd is.
-Hang aan de 2 lange rode draden een kabelschoen aan één uiteinde, <!--hang aan de zwarte lange draad één kabelschoen,--> hang aan de 2 korte rode draden een kabelschoen aan één uiteinde en hang aan de korte zwarte draden een kabelschoen aan één uiteinde.
-Verbind de 2 korte rode draden met een lusterklem alsook de 2 korte zwarte draden.
+### Stap 3 Verbinding motor driver
 
-### Stap
-
-Verbind de draad voor de linkse richting met de motor driver op pin IN1 en de draad voor de rechtse beweging op pin IN2. Verbind daarna een rode draad met output1 en een gele draad met output2 dit om tijdens de ombouw door te verbinden met de motor. Verbind een rode draad met de Vcc, een zwarte draad voor de ground en een rode draad om 5V af te takken voor de joystick. <!--aantal draden en welk kleur draden nog te bepalen-->
-
-### Stap
-
-### Stap
-
-
-### Stap
-
-### Stap
-
+Verbind 3 korte rode draden met de motordriver respectievelijk met OUT1, OUT2 en +12V verbind alle uiteinden van de draden met een wago.
+Verbind 1 korte zwarte draad met de motordriver respectievelijk met GND en verbind het uiteinde van de draad met een wago.
+Verbind de 5V draad met de 5V pin op de motordriver.
+Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de IN2. <!--Nog te controleren-->
 
 <!--Dit klopt niet in logische opbouw van auto-->
 Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.

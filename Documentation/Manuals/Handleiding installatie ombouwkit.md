@@ -11,15 +11,8 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 * Een aantal schroevendraaiers (plat en kruis)
 * Kniptang
-* Lijmpistool + lijm
 * Striptang
-* Pop rivet tang + Poprivetten
-* Bektang
-* Kabels
-* Krimpkous
-* Soldeertin
 * Kabelbinders
-* Wago's
 * Joystick
 * Lusterklem
 * Kabelschoen
