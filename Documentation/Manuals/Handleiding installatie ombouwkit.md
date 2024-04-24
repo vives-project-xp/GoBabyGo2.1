@@ -9,14 +9,13 @@
 
 Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In die hieronder bijgevoegde lijst vind je de benodigdheden.
 
+* Ombouwkit
+* 3D-prints
 * Een aantal schroevendraaiers (plat en kruis)
 * Kniptang
 * Striptang
 * Kabelbinders
 * Joystick
-* Lusterklem
-* Kabelschoen
-* Soldeerbout
 * Boormachine
 
 ## Aanpassing
