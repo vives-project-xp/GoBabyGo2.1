@@ -1,4 +1,4 @@
-# Handleiding ombouwkit
+# Installatie ombouwkit
 
 <!--Hier komt in hoe ze de ombouwkit moeten installeren bij een ride on car-->
 
@@ -18,7 +18,13 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Joystick
 * Boormachine
 
-## Aanpassing
+## Installatie
+
+### Stap 1
+
+Koppel de kabelschoentjes los van de gaspedaal en haal de kabelschoentjes van de gaspedaal. Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Soldeer hiertussen de kill switch
+
+Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts, 5V en de ground.
 
 ### Auto uitpakken
 
