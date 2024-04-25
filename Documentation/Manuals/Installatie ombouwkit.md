@@ -1,8 +1,12 @@
 # Installatie ombouwkit
 
-<!--Hier komt in hoe ze de ombouwkit moeten installeren bij een ride on car-->
-
 ## Inhoud
+
+    - Benodigdheden
+    - Installatie 
+        - Auto uitpakken
+        - Batterij testen
+        - 
 
 <!-- Juiste volgorde bepalen wat eerst wordt gedaan -->
 ## Benodigdheden
@@ -19,12 +23,6 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 * Boormachine
 
 ## Installatie
-
-### Stap 1
-
-Koppel de kabelschoentjes los van de gaspedaal en haal de kabelschoentjes van de gaspedaal. Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Soldeer hiertussen de kill switch
-
-Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts, 5V en de ground.
 
 ### Auto uitpakken
 
@@ -48,6 +46,16 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 ![Zekering batterij](/Images/Zekering_Batterij.jpg "Aansluiting zekering op batterij")
 
 ![Aangesloten batterij](/Images/Connector_Batterij.jpg "Aansluiting batterij")
+
+### Kill-Switch
+
+Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal. Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Soldeer hiertussen de kill switch <!--Kleur kabels nog te bepalen welke richting-->. Boor een gat in de achterkant van de auto en steek de kill-switch hierdoor, plaats deze vast met de bijgeleverde moer.
+
+Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts, 5V en de ground.
+
+
+
+
 
 ### Stuur
 

@@ -3,12 +3,10 @@
 
 ## Inhoud
 
-    * Onderdelen
-    * Materiaal
-    * Materiaal
-    * Tools
-    * Handleiding
-    * 
+    - Onderdelen
+    - Materiaal
+    - Tools
+    - Handleiding
 
 ## Onderdelen
 
@@ -29,11 +27,6 @@ De L298N is een dubbele H-brug-motordriver die de snelheid en de richting van tw
 De L298N zorgt voor een spanningsval van ongeveer 2V, hierdoor zal de spanning op de motorklemmen ongeveer 10V zijn, wat betekent dat we niet de maximale snelheid uit de 12V DC-motor kunnen halen.
 <!--Nog eens nakijken op correcte uitleg werking-->
 
-### Regelbare step-down module
-
-Een regelbare step-down module wordt gebruikt om de 12V ingangsspanning te verlagen naar 5V ingangsspanning voor de motor driver aan te sturen. Deze is te verkrijgen bij Otronic via volgende [link](https://www.otronic.nl/nl/regelbare-step-down-module-438v-5a-96-ho-140568470.html).
-De DC-DC-Converter reduceert de DC-ingangsspanning tot een specifieke DC-uitgangsspanning. <!--Nog verder uitschrijven-->
-
 ### Tuimelschakelaar
 
 De auto wordt voorzien van een kill-switch om de stoom naar beide motoren te onderbreken. Deze tuimelschakelaar is te verkrijgen bij de leverancier Conrad via deze [link](https://www.conrad.be/nl/p/tru-components-1587664-tc-r13-2-05-tuimelschakelaar-250-v-ac-1-5-a-1x-uit-aan-continu-1-stuk-s-1587664.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1587664&adcampaign=google&tid=16860426636_pla-1587664&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYbr98urP1hYvNQBoRcFG0IOoJQFPxab4w2YgbCKT6JE00yVvjM9n6RoC2s0QAvD_BwE).
@@ -42,34 +35,32 @@ De auto wordt voorzien van een kill-switch om de stoom naar beide motoren te ond
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
 
-    * 3 stukken 140cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
-    * 7 stukken 20cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
-    * 1 stuk 140cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
-    * 3 stukken 30cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
-    *<!--hoeveelheid invullen--> 3 klempositie wago geschikt voor geleiders met doorsnede van 4mm2
-    * 8 kabelschoenen
-    * 2 female jumper connector 
-    * 2 plastiek behuizing pin connector
-    *<!--hoeveelheid invullen--> kabelbinders
-    * <!--hoeveelheid invullen--> moeren maat M5
-    * <!--hoeveelheid invullen--> 4 moeren maat M5
-    * <!--hoeveelheid invullen--> M5 metaalschroef van <!--maten invullen-->
-    * 4 stuks schroefdraadbussen M3
-    * 4 stuks metaalschroef M3 30mm
-    * optie: <!--aantal invullen--> aderhulzen 
+    - 3 stukken 140cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
+    - 7 stukken 20cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
+    - 1 stuk 140cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
+    - 3 stukken 30cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
+    - <!--hoeveelheid invullen--> 3 klempositie wago geschikt voor geleiders met doorsnede van 4mm2
+    - 8 kabelschoenen
+    - 2 female jumper connector 
+    - 2 plastiek behuizing pin connector
+    - <!--hoeveelheid invullen--> kabelbinders
+    - <!--hoeveelheid invullen--> moeren maat M5
+    - <!--hoeveelheid invullen--> 4 moeren maat M5
+    - <!--hoeveelheid invullen--> M5 metaalschroef van <!--maten invullen-->
+    - 4 stuks schroefdraadbussen M3
+    - 4 stuks metaalschroef M3 30mm
+    - optie: aderhulzen 
 
 ## Tools
 
 Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 
-    * Platte schoevendraaier <!--maat ingeven-->
-    * Ster schroevendraaier <!--maat ingeven-->
+    * Platte schoevendraaier
+    * Ster schroevendraaier
     * Kniptang
     * Ontmanteltang
     * Soldeerbout
     * Soldeertin
-
-    * <!--nog materiaal toevoegen dat nodig is-->
     * Labels om kabels te labelen
 
 ## Handleiding
@@ -112,6 +103,11 @@ Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de 
 ![Bovenkant motordriver](/Images/MotorDriverFront.jpg "Bovenaanzicht motordriver")
 ![Onderkant motordriver](/Images/MotorDriverBack.jpg "Onderaanzicht motordriver")
 ![Pin aansluiting jumper connector](/Images/ConnectIN1-IN2.jpg "Vooraanzicht motordriver")
+
+### Stap 4 Kill-switch maken
+
+Knip 1 rode flexibele draad van 1m40 lang en 1 zwarte flexibele draad van 1m40 lang. Ontmantel beide draden zodat ongeveer 1cm van de isolatie verwijderd is, plooi 1 van de uiteinde rond en schroevendraaier zodat dit uiteinde vertint kan worden in de vorm van een haakje, vertin de andere uiteinde of plaats er een aderhuls op.
+Vijs de haakjes die gemaakt werden vast aan de kill-switch en plaats op het andere uiteinden van de rode en zwarte draad een wago.
 
 <!--Dit klopt niet in logische opbouw van auto-->
 Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.
