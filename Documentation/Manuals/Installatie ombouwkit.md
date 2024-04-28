@@ -6,6 +6,7 @@
     - Installatie 
         - Auto uitpakken
         - Batterij testen
+        - Kill-switch
         - 
 
 <!-- Juiste volgorde bepalen wat eerst wordt gedaan -->
@@ -37,9 +38,9 @@ Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer 
 ### Batterij test
 
 In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, deze is nog niet aangesloten.
- Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij,
- de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten.
- Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt worden.  
+Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij,
+de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten.
+Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt worden.  
 
 ![Batterij](/Images/Batterij_Aansluiting.jpg "Hoofdbekabeling")
 
@@ -49,13 +50,13 @@ In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In dez
 
 ### Kill-Switch
 
-Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal. Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Soldeer hiertussen de kill switch <!--Kleur kabels nog te bepalen welke richting-->. Boor een gat in de achterkant van de auto en steek de kill-switch hierdoor, plaats deze vast met de bijgeleverde moer.
+Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal. Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Soldeer hiertussen de kill switch <!--Kleur kabels nog te bepalen welke richting-->. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Boor een gat in de achterkant van de auto en steek de kill-switch hierdoor, plaats deze vast met de bijgeleverde moer.
 
-Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts, 5V en de ground.
+### Ombouwkit
 
+Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts, 5V en de ground. Plaats deze kabels in de kabelgoot onderaan de auto. Vijs de kabelgoot vooraan in de auto open en leg de kabels ook in deze kabelgoot. Vijs het dashboard open, haal het voorzichtig van de stuurstang en haal de kabels van de ombouwkit voorzichtig door de opening.
 
-
-
+Lokaliseer de groene en gele kabels die verbonden zijn met de een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. Knip deze door en strip deze draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinden van de draden of plaats een aderhuls over de draden. Steek de groene draad in een wago samen met de rode draad gelabeld met voorwaarts en de gele draad samen in een wago met de achterwaartse kabel. <!--Nog na te kijken of kleur klopt-->
 
 ### Stuur
 
@@ -63,10 +64,8 @@ Het stuur dient niet bevestigd te worden op de auto gezien deze volledig vervang
  De joystick zal de werking van het gaspedaal en het stuur volledig over nemen.
  Bevestig de 3D prints op het dashboard, eerst dient het ronde hoge ronde stuk bevestigd te worden, dit in de inkeping van het dashboard.
 
-> Maak de vijzen van de kabelgoot los en haal de kabelgoot van de auto.
- Zoek vervolgens de draden die naar de accelerator lopen, dit is in meeste gevallen de paarse draden. Knip deze zo dicht mogelijk door bij de accelerator.
+
  Knip 4 rode draden van ...cm lang en strip deze langs beide kanten. Soldeer aan 1 zijde van de draad een kabelschoen om deze dan op de joystick te kunnen schuiven.
- (kan dit loskomen door de schokken van het rijden?)
  Hang de draden aan de joystick en controleer welke draden dienen voor welke beweging, voor, achter, links of rechts. 
  Knip 1 zwarte draad van ...cm lang en strip deze langs beide kanten. Soldeer aan 1 zijde van de draad een kabelschoen om deze dan op de joystick te kunnen schuiven.
  Knip 3 korte draden van ...cm lang en strip deze langs beide kanten. Soldeer deze draden telkens tussen de ground pin van de verschillende schakelaars van de joystick.
