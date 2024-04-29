@@ -52,7 +52,9 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 
 Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal.
 ![Gaspedaal](/Images/GaspedaalTerugplaatsen.jpg "Gaspedaal auto")
-Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Plaats de draden samen in de wago's van de kill-switch. Plaats de wago's in de opening van de gaspedaal en stop de draden door de opening naar de onderkant van de auto. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Haal de kabels door de opening waar al de bekabeling loopt. Steek vervolgend de draad die aan de kill-switch hangt door de voorziene holte voor de achterlichten.
+Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Plaats de draden samen in de wago's van de kill-switch.
+![Wago's onder gaspedaal](/Images/WagosInPedaal.jpg "Wago's onder gaspedaal")
+Plaats de wago's in de opening van de gaspedaal en stop de draden door de opening naar de onderkant van de auto. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Haal de kabels door de opening waar al de bekabeling loopt. Steek vervolgend de draad die aan de kill-switch hangt door de voorziene holte voor de achterlichten.
 Om de kill-switch te plaatsen dien je een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant. Stop de kill-switch door het gat dat werd gemaakt en schroef deze vast met de bijgeleverde moer.
 Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat zal er ergens in de schakeling een slecht contact zijn. Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
 
