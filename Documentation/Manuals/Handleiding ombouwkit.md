@@ -67,12 +67,12 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 Steek 4 schroefdraadbussen van maat M3 in de daarvoor bestemde gaten van de 3D-print waar de joystick wordt geplaatst. Gebruik hiervoor een soldeerbout om het plastic voorzichtig te laten smelten. Zorg ervoor dat de soldeerbout een dikke punt heeft en ingesteld is op ongeveer 200°C. Wacht even totdat de warmte gelijkmatig wordt verdeeld en smelt de schroefdraadbus voorzichtig in het plastic.
 Bevestig op dezelfde manier een M5-moer in de 3D-print om de stuurstang vast te zetten, en plaats 2 M5-moeren op de daarvoor bestemde plaats van het dashboardkoppelstuk. Schuif 2 M5-moeren in de voorziene gleuven van het dashboardkoppelstuk.
 
-![Doos joystick](/Images/DoosJoystick.jpg "Doos met alle schroefdraadbussen")
-![Schroefdraadbussen doos](/Images/SchroefdraadCloseUp.jpg "Close-up schroefdraadbussen")
-![Moer vastzetten](/Images/VastzettenMoerSoldeerbout.jpg "Moer vastzetten met soldeerbout")
+![Doos joystick](/Images/DoosJoystick.png "Doos met alle schroefdraadbussen")
+![Schroefdraadbussen doos](/Images/SchroefdraadCloseUp.png "Close-up schroefdraadbussen")
+![Moer vastzetten](/Images/VastzettenMoerSoldeerbout.png "Moer vastzetten met soldeerbout")
 ![Gleuf voor moer](/Images/GleufjesMoeren.png "Gleuven voorzien voor moeren")
-![Moeren dashboard](/Images/MoerenDashboardKoppelstuk.jpg "Vastgezette moeren dashboard koppelstuk")
-![Moer stuurstang](/Images/MoerStuurstang.jpg "Vastgezette moer stuurstang")
+![Moeren dashboard](/Images/MoerenDashboardKoppelstuk.png "Vastgezette moeren dashboard koppelstuk")
+![Moer stuurstang](/Images/MoerStuurstang.png "Vastgezette moer stuurstang")
 
 ### Stap 2 Voorbereiding bekabeling
 
@@ -85,10 +85,10 @@ Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes a
 **Opmerking:**
 Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebruikt worden.
 
-![Jumper connector uiteinde](/Images/JumperConnector.jpg "Twee jumper connectors")
-![5V connector](/Images/Wago5V.jpg "Wago om de 5V door te lussen")
-![Ground connector](/Images/WagoGroundCloseUp.jpg "Wago om de ground door te lussen")
-![Ground connector full view](/Images/WagoGroundFullView.jpg "Volledig beeld ground door lussen")
+![Jumper connector uiteinde](/Images/JumperConnector.png "Twee jumper connectors")
+![5V connector](/Images/Wago5V.png "Wago om de 5V door te lussen")
+![Ground connector](/Images/WagoGroundCloseUp.png "Wago om de ground door te lussen")
+![Ground connector full view](/Images/WagoGroundFullView.png "Volledig beeld ground door lussen")
 
 ### Stap 3 Verbinding motor driver
 
@@ -97,9 +97,9 @@ Verbind 1 korte zwarte draad met de motordriver respectievelijk met GND en verbi
 Verbind de 5V draad met de 5V pin op de motordriver.
 Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de IN2. <!--Nog te controleren-->
 
-![Bovenkant motordriver](/Images/MotorDriverFront.jpg "Bovenaanzicht motordriver")
-![Onderkant motordriver](/Images/MotorDriverBack.jpg "Onderaanzicht motordriver")
-![Pin aansluiting jumper connector](/Images/ConnectIN1-IN2.jpg "Vooraanzicht motordriver")
+![Bovenkant motordriver](/Images/MotorDriverFront.png "Bovenaanzicht motordriver")
+![Onderkant motordriver](/Images/MotorDriverBack.png "Onderaanzicht motordriver")
+![Pin aansluiting jumper connector](/Images/ConnectIN1-IN2.png "Vooraanzicht motordriver")
 
 ### Stap 4 Kill-switch maken
 
