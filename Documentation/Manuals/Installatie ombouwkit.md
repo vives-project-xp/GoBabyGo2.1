@@ -50,7 +50,13 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 
 ### Kill-Switch
 
-Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal. Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Soldeer hiertussen de kill switch <!--Kleur kabels nog te bepalen welke richting-->. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Boor een gat in de achterkant van de auto en steek de kill-switch hierdoor, plaats deze vast met de bijgeleverde moer.
+Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal.
+![Gaspedaal](/Images/GaspedaalTerugplaatsen.jpg "Gaspedaal auto")
+Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Plaats de draden samen in de wago's van de kill-switch. Plaats de wago's in de opening van de gaspedaal en stop de draden door de opening naar de onderkant van de auto. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Haal de kabels door de opening waar al de bekabeling loopt. Steek vervolgend de draad die aan de kill-switch hangt door de voorziene holte voor de achterlichten.
+Om de kill-switch te plaatsen dien je een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant. Stop de kill-switch door het gat dat werd gemaakt en schroef deze vast met de bijgeleverde moer.
+Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat zal er ergens in de schakeling een slecht contact zijn. Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
+
+<!--Foto's toevoegen-->
 
 ### Ombouwkit
 
@@ -77,20 +83,6 @@ Het stuur dient niet bevestigd te worden op de auto gezien deze volledig vervang
 ![Dashboard links](/Images/Dashboard_Links.jpg "Vijs linkerkant dashboard")
 ![Dashboard rechts](/Images/Dashboard_Rechts.jpg "Vijs rechterkant dashboard")
 
-### Kill- Switch
-
-Om de kill-switch te plaatsen dien je eerst een gat in de achterkant van de auto te boren.
- Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant.  
-
-![Gat voor kill-switch](/Images/Boren_Killswitch.jpg "Gat voor kill-switch")
-
-> Knip de ? draad door om hiertussen de kill-switch te plaatsen. Knip een rode en een zwarte daad van ongeveer 50cm lang, strip beide kanten van de draden.
- Soldeer beide draden aan de switch, de rode draad respectievelijk aan 1 van de buitenste pinnen van de switch, de zwarte draad aan de middelste pin.
- Vervolgens soldeer je de rode draad aan de ? kant van de doorgeknipte draad en de zwarte draad aan de ? kant. Bescherm de gesoldeerde delen met behulp van krimpkousen.
- Steek vervolgend de draad die aan de kill-switch hangt door de voorziene holte voor de achterlichten.
- Stop de kill-switch door het gat dat eerder werd gemaakt en schroef deze vast met de bijgeleverde moer.
- Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat er ergens in de schakeling een slecht contact zijn.
- Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
 
 ### Deuren en spiegels
 
