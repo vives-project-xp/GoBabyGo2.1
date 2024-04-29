@@ -56,8 +56,8 @@ Plaats de wago's in de opening van de gaspedaal en stop de draden door de openin
 Om de kill-switch te plaatsen dien je een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant. Stop de kill-switch door het gat dat werd gemaakt en schroef deze vast met de bijgeleverde moer.
 Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat zal er ergens in de schakeling een slecht contact zijn. Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
 
-![Gaspedaal](/Images/GaspedaalTerugplaatsen.jpg "Gaspedaal auto")
-![Wago's onder gaspedaal](/Images/WagosInPedaal.jpg "Wago's onder gaspedaal")
+![Gaspedaal](/Images/GaspedaalTerugplaatsen.png "Gaspedaal auto")
+![Wago's onder gaspedaal](/Images/WagosInPedaal.png "Wago's onder gaspedaal")
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
 ![Opening kabels voor achterlichten](/Images/OpeningKabelsAchterlichten.png "Opening voor kabels achterlichten")
 ![Kabelgoot](/Images/Kabelgoot.jpg "Onderkant kabelgoot")
