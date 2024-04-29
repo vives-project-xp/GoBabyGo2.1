@@ -35,9 +35,8 @@ In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
 
     * 3 stukken 140cm rode flexibele koper draad van 1.5mm2 dik
     * 7 stukken 20cm rode flexibele koper draad van 1.5mm2 dik
-    * 1 stuk 140cm zwarte flexibele koper draad van 1.5mm2 dik
     * 3 stukken 30cm zwarte flexibele koper draad van 1.5mm2 dik
-    * 3 klempositie wago's geschikt voor geleiders met maximale doorsnede van 4mm2
+    * 9 stuks 3 klempositie wago's geschikt voor geleiders met maximale doorsnede van 4mm2
     * 8 kabelschoenen
     * 2 female jumper connector 
     * 2 plastiek behuizing pin connector
@@ -81,11 +80,10 @@ Bevestig op dezelfde manier een M5-moer in de 3D-print om de stuurstang vast te 
 
 ### Stap 2 Voorbereiding bekabeling
 
-Knip 3 stukken rode flexibele draden van 140cm lang en 7 stukken van 20cm lang. Knip 1 stuk zwarte flexibele draad van 140cm lang en 3 stukken van 20cm lang. Ontmantel alle draden zodat ongeveer 1cm isolatie van de draad verwijderd is.
+Knip 3 stukken rode flexibele draden van 140cm lang en 7 stukken van 20cm lang. Knip 3 stukken zwarte flexibele draad van 20cm lang. Ontmantel alle draden zodat ongeveer 1cm isolatie van de draad verwijderd is.
 Bevestig een female jumper connector aan het uiteinde van 2 lange rode flexibele draden en plaats ze in een plastic pin behuizing. Vertin het andere uiteinde en bevestig hier kabelschoentjes aan. Label de 2 kabels met respectievelijk links en rechts. Vertin beide uiteinden van de laatste lange rode draad en plaats het één uiteinde een wago-connector. Label deze kabel met 5V.
 Vertin alle uiteinden van de 7 stukken rode draad. Bevestig kabelschoentjes aan 2 korte rode draden en vertin het ander uiteinde. Plaats deze 2 rode draden samen met de lange rode draad in een wago-connector. Bevestig kabelschoentjes aan 2 korte rode draden en plaats op beide uiteinden een wago. Label deze 2 kabels met respectievelijk vooruit en achteruit.
-Vertin beide uiteinde van de lange zwarte draad en bevestig aan beide uiteinde een wago-connector. Label deze draad met ground.
-Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes aan 2 van deze draden. Plaats deze twee draden samen met een lange zwarte draad in een wago-connector.
+Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes aan 2 van deze draden. Plaats deze twee draden samen in een wago-connector.
 
 **Opmerking:**
 Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebruikt worden.
