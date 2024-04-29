@@ -1,12 +1,11 @@
-<!--Hier komt in hoe ze de ombouwkit moeten maken-->
 # Handleiding ombouwset
 
 ## Inhoud
 
-    - Onderdelen
-    - Materiaal
-    - Tools
-    - Handleiding
+    * Onderdelen
+    * Materiaal
+    * Tools
+    * Handleiding
 
 ## Onderdelen
 
@@ -25,7 +24,6 @@ Er zijn 5 verschillende 3D stukken nodig om de joystick vast te zetten op het da
 De links rechts richting wordt bepaald aan de hand van de motor die aanwezig is in de auto en een motordriver die er tussen geschakeld wordt. Via de driver wordt de richting en de snelheid van de motor bepaald. De driver die in de schakeling gebruikt wordt is een L298N driver, te verkrijgen bij Otronic via deze [link](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html).
 De L298N is een dubbele H-brug-motordriver die de snelheid en de richting van twee DC-motoren tegelijk mogelijk maakt, in ons geval zullen we maar één motor aansturen. De module kan een DC-motor aansturen met een spanning tussen de 5 en 35V en een piekstroom van 2A. Er zijn twee schroefklemmenblokken aanwezig respectievelijk voor motor A en motor B, een schroefklemblok voor de aarding, de Vcc voor de motor en een 5V-pin die zowel een ingang als een uitgang kan zijn, dit bijvoorbeeld voor een microcontroller. Er zijn 6 control pins aanwezig, pin 1 en 6 dienen om de snelheid van de motoren te regelen met behulp van een microcontroller, pinnen 2 en 3 dienen om de draairichting van motor A te regelen en pinnen 4 en 5 om de draairichting van motor B te regelen. In ons geval zullen we enkel pinnen 2 en 3 gebruiken om de de draairichting van de motor te regelen. Met de pinnen van de draairichting besturen we de schakelaars van de H-brug, als ingang 1 laag is en ingang 2 hoog, zal de motor vooruit bewegen, omgekeerd, als ingang 1 hoog is en ingang 2 laag is zal de moto achteruit bewegen. Als beide ingangen hetzelfde zijn, laag of hoog, zal de motor stoppen.
 De L298N zorgt voor een spanningsval van ongeveer 2V, hierdoor zal de spanning op de motorklemmen ongeveer 10V zijn, wat betekent dat we niet de maximale snelheid uit de 12V DC-motor kunnen halen.
-<!--Nog eens nakijken op correcte uitleg werking-->
 
 ### Tuimelschakelaar
 
@@ -35,21 +33,20 @@ De auto wordt voorzien van een kill-switch om de stoom naar beide motoren te ond
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
 
-    - 3 stukken 140cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
-    - 7 stukken 20cm rode flexibele koper draad van <!--maten invullen--> mm2 dik
-    - 1 stuk 140cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
-    - 3 stukken 30cm zwarte flexibele koper draad van <!--maten invullen--> mm2 dik
-    - <!--hoeveelheid invullen--> 3 klempositie wago geschikt voor geleiders met doorsnede van 4mm2
-    - 8 kabelschoenen
-    - 2 female jumper connector 
-    - 2 plastiek behuizing pin connector
-    - <!--hoeveelheid invullen--> kabelbinders
-    - <!--hoeveelheid invullen--> moeren maat M5
-    - <!--hoeveelheid invullen--> 4 moeren maat M5
-    - <!--hoeveelheid invullen--> M5 metaalschroef van <!--maten invullen-->
-    - 4 stuks schroefdraadbussen M3
-    - 4 stuks metaalschroef M3 30mm
-    - optie: aderhulzen 
+    * 3 stukken 140cm rode flexibele koper draad van 1.5mm2 dik
+    * 7 stukken 20cm rode flexibele koper draad van 1.5mm2 dik
+    * 1 stuk 140cm zwarte flexibele koper draad van 1.5mm2 dik
+    * 3 stukken 30cm zwarte flexibele koper draad van 1.5mm2 dik
+    * 3 klempositie wago's geschikt voor geleiders met maximale doorsnede van 4mm2
+    * 8 kabelschoenen
+    * 2 female jumper connector 
+    * 2 plastiek behuizing pin connector
+    * Kabelbinders
+    * Moeren maat M5
+    * Metaalschroeven maat M5
+    * 4 stuks schroefdraadbussen M3
+    * 4 stuks metaalschroef M3 30mm
+    * Optie: aderhulzen 
 
 ## Tools
 
@@ -73,7 +70,7 @@ Bevestig op dezelfde manier een M5-moer in de 3D-print om de stuurstang vast te 
 ![Doos joystick](/Images/DoosJoystick.jpg "Doos met alle schroefdraadbussen")
 ![Schroefdraadbussen doos](/Images/SchroefdraadCloseUp.jpg "Close-up schroefdraadbussen")
 ![Moer vastzetten](/Images/VastzettenMoerSoldeerbout.jpg "Moer vastzetten met soldeerbout")
-<!--Nog foto toevoegen van moeren gleuven-->
+![Gleuf voor moer](/Images/GleufjesMoeren.png "Gleuven voorzien voor moeren")
 ![Moeren dashboard](/Images/MoerenDashboardKoppelstuk.jpg "Vastgezette moeren dashboard koppelstuk")
 ![Moer stuurstang](/Images/MoerStuurstang.jpg "Vastgezette moer stuurstang")
 
@@ -109,7 +106,5 @@ Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de 
 Knip 1 rode flexibele draad van 1m40 lang en 1 zwarte flexibele draad van 1m40 lang. Ontmantel beide draden zodat ongeveer 1cm van de isolatie verwijderd is, plooi 1 van de uiteinde rond en schroevendraaier zodat dit uiteinde vertint kan worden in de vorm van een haakje, vertin de andere uiteinde of plaats er een aderhuls op.
 Vijs de haakjes die gemaakt werden vast aan de kill-switch en plaats op het andere uiteinden van de rode en zwarte draad een wago.
 
-<!--Dit klopt niet in logische opbouw van auto-->
-Hang deze vervolgens aan de joystick en label de draden volgens richting, vooruit, achteruit, links en rechts. Steek de draden door het voorziene gat van de 3D print waarin de joystick moet geplaatst worden, rekeninghoudende met de richting. De draden die dienen voor het vooruit rijden dienen vooruit gericht te zitten in de 3D print.
-<!--Dit stuk moet bij de handleiding voor installatie van ombouwkit-->
-Plaats het 3D stuk met de halve maan uitstulping op de plaats waar het stuur oorspronkelijk moest komen. De kleine cilindervorm plaats je een M6 moet op de voorzien plaats in de 3D print. Schuif dit over de stuurstang en schroef dit vast met een metaalschroef. Dit voorkomt dat de stuurstang zak
+![Aansluiting kill-switch](/Images/BekabelingKillSwitch.png "Aansluiting draden killswitch")
+![Vorm koper draad](/Images/VormKabelKillSwitch.png "Vorm haakje koper draad")
