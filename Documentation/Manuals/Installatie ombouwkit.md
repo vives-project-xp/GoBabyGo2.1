@@ -28,10 +28,9 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 ### Auto uitpakken
 
 Haal de auto uit de verpakking, organiseer de inhoud per categorie en berg alle spullen netjes op om ervoor te zorgen dat er niets verloren gaat.
+Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.
 
 ![Uitpakken auto](/Images/Uitpakken_Auto.jpg "Auto in doos")
-
-Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak.  
 
 ![Uitgepakte auto](/Images/Uitgepakte_Auto.jpg "Uitgepakte auto")
 
@@ -57,9 +56,13 @@ Om de kill-switch te plaatsen dien je een gat in de achterkant van de auto te bo
 Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat zal er ergens in de schakeling een slecht contact zijn. Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
 
 ![Gaspedaal](/Images/GaspedaalTerugplaatsen.png "Gaspedaal auto")
+
 ![Wago's onder gaspedaal](/Images/WagosInPedaal.png "Wago's onder gaspedaal")
+
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
+
 ![Opening kabels voor achterlichten](/Images/OpeningKabelsAchterlichten.png "Opening voor kabels achterlichten")
+
 ![Kabelgoot](/Images/Kabelgoot.jpg "Onderkant kabelgoot")
 
 ### Ombouwkit
@@ -69,6 +72,7 @@ Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voo
 Lokaliseer de groene en gele kabels die verbonden zijn met de een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. Knip deze door en strip deze draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinden van de draden of plaats een aderhuls over de draden. Steek de groene draad in een wago samen met de rode draad gelabeld met voorwaarts en de gele draad samen in een wago met de achterwaartse kabel. <!--Nog na te kijken of kleur klopt-->
 
 ![Dashboard links](/Images/Dashboard_Links.jpg "Vijs linkerkant dashboard")
+
 ![Dashboard rechts](/Images/Dashboard_Rechts.jpg "Vijs rechterkant dashboard")
 
 ### Joystick en 3D prints
@@ -93,30 +97,30 @@ Boor een gat in de achterkant van de auto waar je de afstandsbediening wenst te 
 ### Wielen
 
 Om de wielen te bevestigen hebben we volgend materiaal nodig: de 4 wielen, 4 velgen, 4 rondellen en 4 steekpinnen.
+Maak het onderscheid tussen de voor en achterwielen, de voorwielen hebben een uitsparing in het midden terwijl de achterwielen een verhoog hebben in het midden.
+Dit is duidelijk te zien op de figuur.
+Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan.
+Schuif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as.
+Buig met behulp van een bektang beide benen van de steekpin, elk in een andere richting voor extra stevigheid.
+Vervolgens plaatsen we de voorwielen. Plaats eerst een rondel op de as, schuif daarna het wiel op de as en plaats nog een rondel.
+Het wiel mag niet los zitten, indien het wiel te los zit moet er nog een rondel bijgestoken worden.
+Plaats de steekpin in het gat van de as en buig met behulp van een bektang de benen van de steekpin, elk in een andere richting voor extra stevigheid.
+Als laatste klik alle velgen op de wielen. Alle velgen zijn hetzelfde dus de volgorde maakt niet uit.
 
 ![Wielen](/Images/Wielen.jpg "Wielen en velgen")
 
-Maak het onderscheid tussen de voor en achterwielen, de voorwielen hebben een uitsparing in het midden terwijl de achterwielen een verhoog hebben in het midden.
- Dit is duidelijk te zien op de figuur.
- Draai de auto ondersteboven zodat de wielen makkelijker monteerbaar zijn. Plaats de achterwielen achteraan de auto en de voorwielen vooraan.
-
 ![Voor en achterwielen](/Images/Voor_Achterwiel.jpg "Verschil voor en achterwielen")
+
 ![Auto onderkant](/Images/Bevestiging_Wielen.jpg "Wielen onderkant")
 
-Schuif de achterwielen op de as van de auto, steek vervolgens de steekpin in het gat van de as.
- Buig met behulp van een bektang beide benen van de steekpin, elk in een andere richting voor extra stevigheid.
-
 ![Bevestiging achterwiel](/Images/Bevestiging_Achterwiel.jpg "Bevestigen achterwiel")
+
 ![Vastzetten achterwiel](/Images/Vastzetten_Achterwiel.png "Vastzetten achterwiel met steekpin")
 
-Vervolgens plaatsen we de voorwielen. Plaats eerst een rondel op de as, schuif daarna het wiel op de as en plaats nog een rondel.
- Het wiel mag niet los zitten, indien het wiel te los zit moet er nog een rondel bijgestoken worden.
- Plaats de steekpin in het gat van de as en buig met behulp van een bektang de benen van de steekpin, elk in een andere richting voor extra stevigheid.
-
 ![Rondel vooras](/Images/Rondeel_Voorwiel.jpg "Rondel plaatsen vooras")
-![Rondel Voorwiel](/Images/Wiel_En_Rondeel.jpg "Voorwiel en rondel")
-![Vastzetten achterwiel](/Images/Steekpin_Voorwiel.jpg "Vastzetten voorwiel met steekpin")
 
-Als laatste klik alle velgen op de wielen. Alle velgen zijn hetzelfde dus de volgorde maakt niet uit.
+![Rondel Voorwiel](/Images/Wiel_En_Rondeel.jpg "Voorwiel en rondel")
+
+![Vastzetten achterwiel](/Images/Steekpin_Voorwiel.jpg "Vastzetten voorwiel met steekpin")
 
 ![Velgen](/Images/Velgen.jpg "Velgen op wielen")

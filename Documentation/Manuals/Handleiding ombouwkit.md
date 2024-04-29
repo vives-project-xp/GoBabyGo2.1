@@ -68,10 +68,15 @@ Steek 4 schroefdraadbussen van maat M3 in de daarvoor bestemde gaten van de 3D-p
 Bevestig op dezelfde manier een M5-moer in de 3D-print om de stuurstang vast te zetten, en plaats 2 M5-moeren op de daarvoor bestemde plaats van het dashboardkoppelstuk. Schuif 2 M5-moeren in de voorziene gleuven van het dashboardkoppelstuk.
 
 ![Doos joystick](/Images/DoosJoystick.png "Doos met alle schroefdraadbussen")
+
 ![Schroefdraadbussen doos](/Images/SchroefdraadCloseUp.png "Close-up schroefdraadbussen")
+
 ![Moer vastzetten](/Images/VastzettenMoerSoldeerbout.png "Moer vastzetten met soldeerbout")
+
 ![Gleuf voor moer](/Images/GleufjesMoeren.png "Gleuven voorzien voor moeren")
+
 ![Moeren dashboard](/Images/MoerenDashboardKoppelstuk.png "Vastgezette moeren dashboard koppelstuk")
+
 ![Moer stuurstang](/Images/MoerStuurstang.png "Vastgezette moer stuurstang")
 
 ### Stap 2 Voorbereiding bekabeling
@@ -86,9 +91,13 @@ Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes a
 Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebruikt worden.
 
 ![Jumper connector uiteinde](/Images/JumperConnector.png "Twee jumper connectors")
+
 ![5V connector](/Images/Wago5V.png "Wago om de 5V door te lussen")
+
 ![5V connector full view](/Images/Wago5VFullView.png "Wago om de 5V door te lussen")
+
 ![Ground connector](/Images/WagoGroundCloseUp.png "Wago om de ground door te lussen")
+
 ![Ground connector full view](/Images/WagoGroundFullView.png "Volledig beeld ground door lussen")
 
 ### Stap 3 Verbinding motor driver
@@ -96,10 +105,12 @@ Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebr
 Verbind 3 korte rode draden met de motordriver respectievelijk met OUT1, OUT2 en +12V verbind alle uiteinden van de draden met een wago.
 Verbind 1 korte zwarte draad met de motordriver respectievelijk met GND en verbind het uiteinde van de draad met een wago.
 Verbind de 5V draad met de 5V pin op de motordriver.
-Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de IN2. <!--Nog te controleren-->
+Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de IN2.
 
 ![Bovenkant motordriver](/Images/MotorDriverFront.png "Bovenaanzicht motordriver")
+
 ![Onderkant motordriver](/Images/MotorDriverBack.png "Onderaanzicht motordriver")
+
 ![Pin aansluiting jumper connector](/Images/ConnectIN1-IN2.png "Vooraanzicht motordriver")
 
 ### Stap 4 Kill-switch maken
@@ -108,4 +119,5 @@ Knip 1 rode flexibele draad van 1m40 lang en 1 zwarte flexibele draad van 1m40 l
 Vijs de haakjes die gemaakt werden vast aan de kill-switch en plaats op het andere uiteinden van de rode en zwarte draad een wago.
 
 ![Aansluiting kill-switch](/Images/BekabelingKillSwitch.png "Aansluiting draden killswitch")
+
 ![Vorm koper draad](/Images/VormKabelKillSwitch.png "Vorm haakje koper draad")
