@@ -51,14 +51,16 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 ### Kill-Switch
 
 Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal.
-![Gaspedaal](/Images/GaspedaalTerugplaatsen.jpg "Gaspedaal auto")
 Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Plaats de draden samen in de wago's van de kill-switch.
-![Wago's onder gaspedaal](/Images/WagosInPedaal.jpg "Wago's onder gaspedaal")
 Plaats de wago's in de opening van de gaspedaal en stop de draden door de opening naar de onderkant van de auto. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Haal de kabels door de opening waar al de bekabeling loopt. Steek vervolgend de draad die aan de kill-switch hangt door de voorziene holte voor de achterlichten.
 Om de kill-switch te plaatsen dien je een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant. Stop de kill-switch door het gat dat werd gemaakt en schroef deze vast met de bijgeleverde moer.
 Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat zal er ergens in de schakeling een slecht contact zijn. Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
 
-<!--Foto's toevoegen-->
+![Gaspedaal](/Images/GaspedaalTerugplaatsen.jpg "Gaspedaal auto")
+![Wago's onder gaspedaal](/Images/WagosInPedaal.jpg "Wago's onder gaspedaal")
+![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
+![Opening kabels voor achterlichten](/Images/OpeningKabelsAchterlichten.png "Opening voor kabels achterlichten")
+![Kabelgoot](/Images/Kabelgoot.jpg "Onderkant kabelgoot")
 
 ### Ombouwkit
 
@@ -66,25 +68,10 @@ Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voo
 
 Lokaliseer de groene en gele kabels die verbonden zijn met de een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. Knip deze door en strip deze draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinden van de draden of plaats een aderhuls over de draden. Steek de groene draad in een wago samen met de rode draad gelabeld met voorwaarts en de gele draad samen in een wago met de achterwaartse kabel. <!--Nog na te kijken of kleur klopt-->
 
-### Stuur
-
-Het stuur dient niet bevestigd te worden op de auto gezien deze volledig vervangen wordt door een joystick.
- De joystick zal de werking van het gaspedaal en het stuur volledig over nemen.
- Bevestig de 3D prints op het dashboard, eerst dient het ronde hoge ronde stuk bevestigd te worden, dit in de inkeping van het dashboard.
-
-
- Knip 4 rode draden van ...cm lang en strip deze langs beide kanten. Soldeer aan 1 zijde van de draad een kabelschoen om deze dan op de joystick te kunnen schuiven.
- Hang de draden aan de joystick en controleer welke draden dienen voor welke beweging, voor, achter, links of rechts. 
- Knip 1 zwarte draad van ...cm lang en strip deze langs beide kanten. Soldeer aan 1 zijde van de draad een kabelschoen om deze dan op de joystick te kunnen schuiven.
- Knip 3 korte draden van ...cm lang en strip deze langs beide kanten. Soldeer deze draden telkens tussen de ground pin van de verschillende schakelaars van de joystick.
- De draden voor de vooruit, achteruit beweging worden geschakeld tussen ?
- De draden voor de links, recht beweging worden geschakeld tussen ?
- De draad voor de ground wordt verbonden met ?
-
-![Kabelgoot](/Images/Kabelgoot.jpg "Onderkant kabelgoot")
 ![Dashboard links](/Images/Dashboard_Links.jpg "Vijs linkerkant dashboard")
 ![Dashboard rechts](/Images/Dashboard_Rechts.jpg "Vijs rechterkant dashboard")
 
+### Joystick en 3D prints
 
 ### Deuren en spiegels
 
