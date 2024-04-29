@@ -2,14 +2,17 @@
 
 ## Inhoud
 
-    - Benodigdheden
-    - Installatie 
-        - Auto uitpakken
-        - Batterij testen
-        - Kill-switch
-        - 
+    * Benodigdheden
+    * Installatie 
+        * Auto uitpakken
+        * Batterij testen
+        * Kill-switch
+        * Ombouwkit
+        * Joystick en 3D prints
+        * Deuren en spiegels
+        * Houder afstandsbediening
+        * Wielen
 
-<!-- Juiste volgorde bepalen wat eerst wordt gedaan -->
 ## Benodigdheden
 
 Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In die hieronder bijgevoegde lijst vind je de benodigdheden.
