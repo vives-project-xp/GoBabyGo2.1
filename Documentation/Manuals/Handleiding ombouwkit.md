@@ -87,6 +87,7 @@ Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebr
 
 ![Jumper connector uiteinde](/Images/JumperConnector.png "Twee jumper connectors")
 ![5V connector](/Images/Wago5V.png "Wago om de 5V door te lussen")
+![5V connector full view](/Images/Wago5VFullView.png "Wago om de 5V door te lussen")
 ![Ground connector](/Images/WagoGroundCloseUp.png "Wago om de ground door te lussen")
 ![Ground connector full view](/Images/WagoGroundFullView.png "Volledig beeld ground door lussen")
 
