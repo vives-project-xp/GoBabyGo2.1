@@ -52,11 +52,10 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 
 ### Kill-Switch
 
-Haal het gaspedaal voorzichtig uit de auto en koppel de kabelschoentjes los van het gaspedaal.
-Strip de paarse draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Plaats de draden samen in de wago's van de kill-switch.
-Plaats de wago's in de opening van de gaspedaal en stop de draden door de opening naar de onderkant van de auto. Vijs vervolgens de kabelgoot die zich onderaan de auto bevind los en plaats de kabels van de kill-switch in de kabelgoot naar achter. Haal de kabels door de opening waar al de bekabeling loopt. Steek vervolgend de draad die aan de kill-switch hangt door de voorziene holte voor de achterlichten.
-Om de kill-switch te plaatsen dien je een gat in de achterkant van de auto te boren. Zorg ervoor dat het gat niet te dicht bij rand van de auto zit en dat dit makkelijk bereikbaar is aan de onderkant. Stop de kill-switch door het gat dat werd gemaakt en schroef deze vast met de bijgeleverde moer.
-Om de werking van de schakelaar te testen, steek de auto aan via de on off knop. Indien de auto niet aan gaat zal er ergens in de schakeling een slecht contact zijn. Indien de auto aan gaat werkt te schakeling correct, dit kan nog eens gecontroleerd worden door de kill-switch uit te schakelen. Zo zal de auto uitvallen.
+Verwijder het gaspedaal voorzichtig uit de auto en maak de stekkers los die eraan vast zitten. Verwijder ongeveer 1cm van de isolatie van de paarse draden, vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Stop beide draden in een wago samen met de kill-switch.
+Plaats de wago's terug in de opening van de gaspedaal en leid de draden en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de draden van de kill-switch erin, richting de achterkant van de auto. Laat de draden met de kill-switch door de opening gaan waar alle andere draden lopen. Steek de draden en de killswitch door de opening voorzien voor de achterlichten.
+Boor een gaat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Schuif de kill-switch door het gat en schroef deze vast met de meegeleverde moer.
+Om te controleren of de schakelaar werkt, zet de auto aan met de aan/uit-knop. Als de auto niet aangaat, is er ergens in het circuit een slecht contact. Als de auto wel aangaat, werkt de schakeling zoals het hoort. Dit kun je nogmaals controleren door de kill-switch uit te schakelen, dan zal de auto uitvallen.
 
 ![Gaspedaal](/Images/GaspedaalTerugplaatsen.png "Gaspedaal auto")
 
@@ -70,7 +69,7 @@ Om de werking van de schakelaar te testen, steek de auto aan via de on off knop.
 
 ### Ombouwkit
 
-Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts en 5V. Plaats deze kabels in de kabelgoot onderaan de auto naar voor. Vijs de kabelgoot vooraan in de auto open en leg de kabels ook in deze kabelgoot. Vijs het dashboard open, haal het voorzichtig van de stuurstang en haal de kabels van de ombouwkit voorzichtig door de opening waar de andere kabels doorlopen.
+Leg de ombouwkit in de ruimte waar de batterij zich bevind. Steek de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts en 5V. Plaats deze kabels in de kabelgoot onderaan de auto naar voor. Vijs de kabelgoot vooraan in de auto open en leg de kabels ook in deze kabelgoot. Vijs het dashboard open, haal het voorzichtig van de stuurstang en haal de kabels van de ombouwkit voorzichtig door de opening waar de andere kabels doorlopen.
 Lokaliseer de groene, paarse en gele draad die verbonden zijn met een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. Knip deze draden door en strip de draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinden van de draden of plaats een aderhuls over de draden. Steek de groene draad in een wago samen met de rode draad gelabeld met achterwaarts en de gele draad in een wago samen met de draad gelabeld voorwaarts. Plaats de paarse kabel samen in een wago met de 2 zwarte korte kabels gelabeld ground.
 
 Indien gewenst kunnen de overtollige draden van de audio interface verwijderd worden, dit zijn de draden die oorspronkelijk naar het stuur lopen. Dit zijn respectievelijk 3 draden, geel, zwart en rood. Ook kunnen de speakers losgekoppeld worden indien gewenst, dit zijn de 2 gele draden.
