@@ -41,8 +41,8 @@ In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
     * 2 female jumper connector 
     * 2 plastiek behuizing pin connector
     * Kabelbinders
-    * Moeren maat M5
-    * Metaalschroeven maat M5
+    * 5 Moeren maat M5
+    * 5 Metaalschroeven maat M5
     * 4 stuks schroefdraadbussen M3
     * 4 stuks metaalschroef M3 30mm
     * Optie: aderhulzen 

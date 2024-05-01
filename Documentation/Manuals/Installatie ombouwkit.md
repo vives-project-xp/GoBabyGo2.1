@@ -62,11 +62,11 @@ Om de werking van de schakelaar te testen, steek de auto aan via de on off knop.
 
 ![Wago's onder gaspedaal](/Images/WagosInPedaal.png "Wago's onder gaspedaal")
 
+![Kabelgoot](/Images/Kabelgoot.jpg "Onderkant kabelgoot")
+
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
 
 ![Opening kabels voor achterlichten](/Images/OpeningKabelsAchterlichten.png "Opening voor kabels achterlichten")
-
-![Kabelgoot](/Images/Kabelgoot.jpg "Onderkant kabelgoot")
 
 ### Ombouwkit
 
