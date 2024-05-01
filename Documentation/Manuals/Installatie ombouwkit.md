@@ -72,12 +72,25 @@ Om de werking van de schakelaar te testen, steek de auto aan via de on off knop.
 
 Plaats de ombouwkit in de holte waar de batterij zich bevind. Stop de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts en 5V. Plaats deze kabels in de kabelgoot onderaan de auto naar voor. Vijs de kabelgoot vooraan in de auto open en leg de kabels ook in deze kabelgoot. Vijs het dashboard open, haal het voorzichtig van de stuurstang en haal de kabels van de ombouwkit voorzichtig door de opening waar de andere kabels doorlopen.
 Lokaliseer de groene, paarse en gele draad die verbonden zijn met een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. Knip deze draden door en strip de draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinden van de draden of plaats een aderhuls over de draden. Steek de groene draad in een wago samen met de rode draad gelabeld met achterwaarts en de gele draad in een wago samen met de draad gelabeld voorwaarts. Plaats de paarse kabel samen in een wago met de 2 zwarte korte kabels gelabeld ground.
-Verwijder de overtollige draden van de audio interface, dit zijn de draden die oorspronkelijk naar het stuur lopen. Deze kabels staan aangeduid op de figuur.
+
+Indien gewenst kunnen de overtollige draden van de audio interface verwijderd worden, dit zijn de draden die oorspronkelijk naar het stuur lopen. Dit zijn respectievelijk 3 draden, geel, zwart en rood. Ook kunnen de speakers losgekoppeld worden indien gewenst, dit zijn de 2 gele draden.
 
 In de achterkant van de auto lokaliseer je de groene en gele kabel die naar de motor driver van de auto loopt. Koppel deze los van de printplaat en knip de connector van de draden. Strip de 2 draden zodat ongeveer 5mm van de isolatie verwijderd is en plaats de <!--kleur nog te bekijken--> kabel samen in de wago die verbonden is met OUT1 en de <!--kleur nog te bekijken--> kabel samen in de wago die verbonden is met OUT2.
 Lokaliseer de zwarte kabel en witte kabel van de 7pin connector en knip deze door op ongeveer 5cm van de aansluiting op de motor driver. Strip beide zijden van de draad en vertin de uiteinden of plaats een aderhuls op de uiteinden. Plaats de zwarte kabel samen in wago ground die zich op de motordriver bevind van de ombouwkit. Plaats de witte kabel samen in de wago 12V op de motordriver.
 
 Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden terug vast gevezen worden. Het dashboard wordt pas terug vast geplaatst tijdens het plaatsen van de 3D prints.
+
+![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
+
+![Bekabeling joystick vooraan](/Images/BekabelingJoystick.png "Bekabeling joystick aan dashboard")
+
+![Bekabeling schakelaar vooruit/achteruit](/Images/BekabelingSchakelaarVooruit.png "Bekabeling schakelaar vooruit/achteruit")
+
+![Bekabeling joystick vooruit/achteruit](/Images/BekabelingVooruitAchteruit.png "Bekabeling joystick vooruit/achteruit")
+
+![Bekabeling ground joystick](/Images/BekabelingGround.png "Bekabeling ground joystick")
+
+![Bekabeling audio interface](/Images/BekabelingAudioInterface.png "Bekabeling audio interface")
 
 ![Dashboard links](/Images/Dashboard_Links.jpg "Vijs linkerkant dashboard")
 
