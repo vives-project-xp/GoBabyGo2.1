@@ -80,6 +80,14 @@ Lokaliseer de zwarte kabel en witte kabel van de 7pin connector en knip deze doo
 
 Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden terug vast gevezen worden. Het dashboard wordt pas terug vast geplaatst tijdens het plaatsen van de 3D prints.
 
+![Kabelgoot onderaan auto](/Images/KabelgootOnderaan.png "Onderaanzicht auto voor kabelgoten")
+
+![Dashboard links](/Images/VijzenDashboardLinks.png "Vijs linkerkant dashboard")
+
+![Dashboard rechts](/Images/VijzenDashboardRechts.png "Vijs rechterkant dashboard")
+
+![Kabelgoot vooraan dashboard](/Images/KabelgootVooraan.png "Kabelgoot vooraan auto")
+
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
 
 ![Bekabeling joystick vooraan](/Images/BekabelingJoystick.png "Bekabeling joystick aan dashboard")
@@ -92,12 +100,18 @@ Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden
 
 ![Bekabeling audio interface](/Images/BekabelingAudioInterface.png "Bekabeling audio interface")
 
-![Dashboard links](/Images/Dashboard_Links.jpg "Vijs linkerkant dashboard")
-
-![Dashboard rechts](/Images/Dashboard_Rechts.jpg "Vijs rechterkant dashboard")
-
 ### Joystick en 3D prints
 
+Eens de ombouwkit volledig is geïnstalleerd kunnen de kabels verbonden worden met de joystick om te testen of alles werkt. Indien alles correct werkt kunnen deze terug losgekoppeld worden. Indien niet alles correct werkt zal er ergens in de schakeling een slecht contact zijn of een fout met het verbinden van de correcte draden.
+Plaats de ronde platte schijf (dashboard onderstuk) in de opening waar de stuurstang doorgaat en stop de kabels naar de joystick hierdoor. Stop eerst de kabels met de kabelschoentjes er door en dan pas de andere kabels, indien nodig haal de wago's even van de kabels en plaats ze daarna terug. Doe hetzelfde met de holle cilinder met het uitsteeksel, plaats dit uitsteeksel in de uitkeping van het dashboard. Leg de kabels over de cilinder zodat de stuurstang houder makkelijk geplaats kan worden. Schuif de stuurstanghouder over de stuurstang, zorg ervoor dat de openingen in de 3D print allignd zijn met de opening van de stuurstang. Schroef de stuurstanghouder vast met een moer via de opening in de cilinder. Haal de kabels door de opening van de doos voor de joystick, indien nodig haal de wago's even van de kabels en plaats ze daarna terug. Plaats de doos voor de joystick op de cilinder en zorg ervoor dat openingen van de doos allignd zijn met de holtes voorzien van moeren in de cilinder, zet de doos vast op de cilinder met 2 schroeven. Vijs de metalen plaat die meegeleverd is met de joystick los, hou deze vijsjes apart. Plaats het deksel van de doos op de joystick en vijs het deksel aan de joystick vast met de vijsjes. Sluit de juiste kabelschoentjes aan met de juiste schakelaars van de joystick, 1 voor voorwaarst samen met 1 voor ground, 1 voor achterwaards samen met 1 voor ground, 1 voor links samen met 1 voor 5V en 1 voor rechts samen met 1 voor 5V. <!--nog uit te leggen welke kabels met welke aansluiting--> Knijp de kabelschoentjes voorzichtig vast op de aansluiting zodat de kabelschoentjes niet los komen. Plaats de joystick in de doos en vijs het deksel vast op de doos.
+
+![Bevestiging dashboard onderstuk](/Images/BevestigingDashboardOnderstuk.png "Bevestiging dashboard onderstuk")
+
+![Bevestiging dashboard koppelstuk](/Images/BevestigingDashboardKoppelstuk.png "Bevestiging dashboard koppelstuk")
+
+![Vastzetten stuurstang houder](/Images/VastzettenStuurstanghouder.png "Opening voor moer stuurstang houder")
+
+![Bevestiging doos joystick](/Images/BevestigingDoosJoystick.png "Bevestiging doos joystick")
 
 ### Deuren en spiegels
 
