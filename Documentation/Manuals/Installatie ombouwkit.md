@@ -2,16 +2,16 @@
 
 ## Inhoud
 
-    * Benodigdheden
-    * Installatie 
-        * Auto uitpakken
-        * Batterij testen
-        * Kill-switch
-        * Ombouwkit
-        * Joystick en 3D prints
-        * Deuren en spiegels
-        * Houder afstandsbediening
-        * Wielen
+* Benodigdheden
+* Installatie
+  * Auto uitpakken
+  * Batterij testen
+  * Kill-switch
+  * Ombouwkit
+  * Joystick en 3D prints
+  * Deuren en spiegels
+  * Houder afstandsbediening
+  * Wielen
 
 ## Benodigdheden
 
