@@ -54,8 +54,8 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 
 Verwijder het gaspedaal voorzichtig uit de auto en maak de stekkers los die eraan vast zitten. Verwijder ongeveer 1cm van de isolatie van de paarse draden, vertin de uiteinde van beide draden of plaats een aderhuls op de draden. Stop beide draden in een wago samen met de kill-switch.
 Plaats de wago's terug in de opening van de gaspedaal en leid de draden en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de draden van de kill-switch erin, richting de achterkant van de auto. Laat de draden met de kill-switch door de opening gaan waar alle andere draden lopen. Steek de draden en de killswitch door de opening voorzien voor de achterlichten.
-Boor een gaat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Schuif de kill-switch door het gat en schroef deze vast met de meegeleverde moer.
-Om te controleren of de schakelaar werkt, zet de auto aan met de aan/uit-knop. Als de auto niet aangaat, is er ergens in het circuit een slecht contact. Als de auto wel aangaat, werkt de schakeling zoals het hoort. Dit kun je nogmaals controleren door de kill-switch uit te schakelen, dan zal de auto uitvallen.
+Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Schuif de kill-switch door het gat en schroef deze vast met de meegeleverde moer.
+Om te controleren of de schakelaar werkt, zet de auto aan met de aan/uit-knop. Als de auto niet aangaat, is er ergens in het circuit een slecht contact. Als de auto wel aangaat, werkt de schakeling zoals het hoort. Dit kun je nogmaals controleren door de kill-switch uit te schakelen, dan kan er niet meer voorwaarts of achterwaarts gereden worden.
 
 ![Gaspedaal](/Images/GaspedaalTerugplaatsen.png "Gaspedaal auto")
 
