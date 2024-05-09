@@ -54,7 +54,7 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 
 Verwijder het gaspedaal voorzichtig uit de auto en maak de kabelschoentjes los die eraan vast zitten. Verwijder ongeveer 1cm van de isolatie van de paarse kabel, vertin de uiteinde van beide kabels of plaats een aderhuls op de kabels. Stop beide kabels in een wago samen met de kill-switch.
 
-Plaats de wago's terug in de opening van de gaspedaal en leid de kabels en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de kabels van de kill-switch erin, richting de achterkant van de auto. Bind de kabels van de kill-switch vast met enkele kabelbinders aan de reeds aanwezige kabels. Haal de kabels van de kill-switch door de opening gaan waar alle andere kabels lopen. Steek de kabels en de killswitch door de opening voorzien voor de achterlichten.
+Plaats de wago's terug in de opening van de gaspedaal en leid de kabels en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de kabels van de kill-switch erin, richting de achterkant van de auto. Bind de kabels van de kill-switch vast met enkele kabelbinders aan de reeds aanwezige kabels. Haal de kabels van de kill-switch door de opening gaan waar alle andere kabels lopen. Steek de kabels en de kill-switch door de opening voorzien voor de achterlichten.
 
 Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Steek de kill-switch door het gat en schroef deze vast met de meegeleverde moer.
 
@@ -67,6 +67,10 @@ Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg er
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
 
 ![Opening kabels voor achterlichten](/Images/OpeningKabelsAchterlichten.png "Opening voor kabels achterlichten")
+
+![Gat voor Kill-switch](/Images/GatKillSwitch.png "Gat voor kill-switch")
+
+
 
 ### Ombouwkit
 
@@ -99,6 +103,7 @@ Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden
 ![Bekabeling ground joystick](/Images/BekabelingGround.png "Bekabeling ground joystick")
 
 ![Bekabeling audio interface](/Images/BekabelingAudioInterface.png "Bekabeling audio interface")
+
 
 ### Joystick en 3D prints
 
