@@ -68,7 +68,7 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 Steek 4 schroefdraadbussen van maat M3 in de daarvoor bestemde gaten van de 3D-print waar de joystick wordt geplaatst. Gebruik hiervoor een soldeerbout om het plastic voorzichtig te laten smelten. Zorg ervoor dat de soldeerbout een dikke punt heeft en ingesteld is op ongeveer 200°C. Wacht even totdat de warmte gelijkmatig wordt verdeeld en smelt de schroefdraadbus voorzichtig in het plastic. Doe hetzelfde voor de stuurstanghouder waar een uitsparing is voorzien voor een M5-moer.
 Plaats 2 M5-moeren in de daarvoor voorziene plaats van het dashboard koppelstuk en schuif 2 M5-moeren in de voorziene gleuven van het dashboardkoppelstuk.
 
-Schroef de metalen plaat die standaard aan de joystick hangt los en bevestig in plaats daarvan het deksel voor de doos aan de joystick met de bijbehorende schroeven.
+Schroef de metalen plaat die standaard aan de joystick hangt los en bevestig in plaats daarvan het deksel voor de doos aan de joystick met de bijbehorende schroeven. Schroef de groene stukken onderaan de joystick los, deze zijn niet nodig.
 
 ![Doos joystick](/Images/DoosJoystick.png "Doos met alle schroefdraadbussen")
 
