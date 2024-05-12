@@ -78,7 +78,11 @@ Schroef de metalen plaat die standaard aan de joystick hangt los en bevestig in 
 
 ![Moer stuurstang](/Images/MoerStuurstang.png "Vastgezette moer stuurstang")
 
-![Joystick met metalen plaat](/Images/Joystick.jpg "Joystick met metalen plaat")
+![Bovenkant joystick](/Images/BovenkantJoystick.png "Bovenkant joystick met metalen plaat")
+
+![Deksel met joystick](/Images/DekselJoystick.png "Deksel voor de doos op de joystick")
+
+![Onderkant joystick](/Images/OnderkantJoystick.png "Onderkant joystick groene stukken voor richtingbepaling")
 
 ### Stap 2 Voorbereiding bekabeling
 
