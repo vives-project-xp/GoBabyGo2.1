@@ -120,7 +120,11 @@ Eens de ombouwkit volledig geïnstalleerd is, kunnen de kabels verbonden worden 
 
 Plaats de ronde platte schijf (dashboard onderstuk) in de opening waar de stuurstang doorgaat en geleid de kabels naar de joystick hierdoor. Steek eerst de kabels met de kabelschoentjes er door en vervolgens de overige kabels. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Doe hetzelfde met de holle cilinder (koppelstuk dashboard) met het uitsteeksel; positioneer dit uitsteeksel in de uitkeping van het dashboard. Bevestig deze twee onderdelen aan elkaar met 2 M5-bouten. Zorg ervoor dat beide stukken stevig worden vastgezet, zodat deze niet kunnen loskomen of onstabiel zijn.
 
-Leg de kabels over de cilinder zodat de stuurstang houder makkelijk geplaats kan worden. Schuif de kleine cilinder (stuurstanghouder) over de stuurstang, zorg ervoor dat de openingen in de 3D print allignd zijn met de opening van de stuurstang. Schroef de stuurstanghouder vast met een moer via de opening in de cilinder. Haal de kabels door de opening van de doos voor de joystick, indien nodig haal de wago's even van de kabels en plaats ze daarna terug. Plaats de doos voor de joystick op de cilinder en zorg ervoor dat openingen van de doos allignd zijn met de holtes voorzien van moeren in de cilinder, zet de doos vast op de cilinder met 2 schroeven. Vijs de metalen plaat die meegeleverd is met de joystick los, hou deze vijsjes apart. Plaats het deksel van de doos op de joystick en vijs het deksel aan de joystick vast met de vijsjes. Sluit de juiste kabelschoentjes aan met de juiste schakelaars van de joystick, 1 voor voorwaarst samen met 1 voor ground, 1 aan de tegenoverzijde voor achterwaards samen met 1 voor ground, 1 voor links samen met 1 voor 5V en 1 aan de tegenoverzijde voor rechts samen met 1 voor 5V.  Schuif de kabelschoentjes goed vast zodat ze zeker niet los komen. Plaats de joystick in de doos en vijs het deksel vast op de doos.
+Leg de kabels over de cilinder, zodat de stuurstanghouder makkelijk geplaatst kan worden. Schuif de kleine cilinder (stuurstanghouder) over de stuurstang, en zorg ervoor dat de openingen in de 3D-prints zijn uitgelijnd met de openingen van de stuurstang. Bevestig de stuurstanghouder vast met een moer via de opening in de cilinder. Zorg ervoor dat de moer volledig door het 3D-print gaat, maar dat deze nergens aan kan haperen in de grote cilinder.
+
+Haal de kabels door de opening van de doos voor de joystick. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Plaats de doos voor de joystick op de cilinder en zorg ervoor dat de openingen van de doos zijn uitgelijnd met de holtes voorzien van moeren in de cilinder. Bevestig de doos stevig op de cilinder met 2 schroeven.
+
+Vijs de metalen plaat die meegeleverd is met de joystick los, hou deze vijsjes apart. Plaats het deksel van de doos op de joystick en vijs het deksel aan de joystick vast met de vijsjes. Sluit de juiste kabelschoentjes aan met de juiste schakelaars van de joystick, 1 voor voorwaarst samen met 1 voor ground, 1 aan de tegenoverzijde voor achterwaards samen met 1 voor ground, 1 voor links samen met 1 voor 5V en 1 aan de tegenoverzijde voor rechts samen met 1 voor 5V.  Schuif de kabelschoentjes goed vast zodat ze zeker niet los komen. Plaats de joystick in de doos en vijs het deksel vast op de doos.
 
 ![Bevestiging dashboard onderstuk](/Images/BevestigingDashboardOnderstuk.png "Bevestiging dashboard onderstuk")
 
@@ -131,6 +135,8 @@ Leg de kabels over de cilinder zodat de stuurstang houder makkelijk geplaats kan
 ![Vastzetten stuurstang houder](/Images/VastzettenStuurstanghouder.png "Opening voor moer stuurstang houder")
 
 ![Bevestiging doos joystick](/Images/BevestigingDoosJoystick.png "Bevestiging doos joystick")
+
+![Deksel met joystick](/Images/DekselJoystick.png "Deksel voor de doos op de joystick")
 
 ### Deuren en spiegels
 
