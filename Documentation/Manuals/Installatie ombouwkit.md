@@ -124,7 +124,7 @@ Leg de kabels over de cilinder, zodat de stuurstanghouder makkelijk geplaatst ka
 
 Haal de kabels door de opening van de doos voor de joystick. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Plaats de doos voor de joystick op de cilinder en zorg ervoor dat de openingen van de doos zijn uitgelijnd met de holtes voorzien van moeren in de cilinder. Bevestig de doos stevig op de cilinder met 2 schroeven.
 
-Vijs de metalen plaat die meegeleverd is met de joystick los, hou deze vijsjes apart. Plaats het deksel van de doos op de joystick en vijs het deksel aan de joystick vast met de vijsjes. Sluit de juiste kabelschoentjes aan met de juiste schakelaars van de joystick, 1 voor voorwaarst samen met 1 voor ground, 1 aan de tegenoverzijde voor achterwaards samen met 1 voor ground, 1 voor links samen met 1 voor 5V en 1 aan de tegenoverzijde voor rechts samen met 1 voor 5V.  Schuif de kabelschoentjes goed vast zodat ze zeker niet los komen. Plaats de joystick in de doos en vijs het deksel vast op de doos.
+Sluit de juiste kabelschoentjes aan op de juiste schakelaars van de joystick: één voor voorwaarts samen met één voor ground, één aan de tegenoverliggende zijde voor achterwaarts samen met één voor ground, één voor links samen met één voor 5V en 1 aan de tegenoverliggende zijde voor rechts samen met één voor 5V. Zorg ervoor dat de kablschoentjes stevig vastzitten, zodat ze niet los kunnen komen. Plaats de joystick in de doos en schroef het deksel vast op de doos.
 
 ![Bevestiging dashboard onderstuk](/Images/BevestigingDashboardOnderstuk.png "Bevestiging dashboard onderstuk")
 
