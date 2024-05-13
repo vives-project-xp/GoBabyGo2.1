@@ -13,7 +13,6 @@ By creating adaptable vehicle kits and comprehensive instructions, the project s
 - [Vic Verbiest](https://github.com/Vic-Verbiest) <!--Beschrijving rol toevoegen-->
 - [Lynn Delaere](https://github.com/LynnDelaere): Maintain documentation and support developers
 
-
 ## Features
 
 - Assembly kit development
@@ -32,7 +31,6 @@ The prototype car is functional the user manual and kit just need to be made.
 
 ## Documentation
 
- You can find the user manual in. [Yet to be made.]()
- If you want to build your own, then here is the converter kit[ombouwkit](/Documentation/Ombouwkit.md) here you can find all the additional info.
+The documentation folder contains an [assembly kit](/Documentation/Manuals/Handleiding%20ombouwkit.md) 
 
 //Last updatet 13/05/2024 09:00 CET
