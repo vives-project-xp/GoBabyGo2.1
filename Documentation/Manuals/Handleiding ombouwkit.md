@@ -1,4 +1,4 @@
-# Handleiding ombouwset
+# Handleiding ombouwkit
 
 ## Inhoud
 
@@ -138,3 +138,5 @@ Vijs de haakjes die gemaakt werden vast aan de kill-switch en plaats op het ande
 ![Aansluiting kill-switch](/Images/BekabelingKillSwitch.png "Aansluiting draden killswitch")
 
 ![Vorm koper draad](/Images/VormKabelKillSwitch.png "Vorm haakje koper draad")
+
+[Terug naar boven](#Handleidingombouwset)
