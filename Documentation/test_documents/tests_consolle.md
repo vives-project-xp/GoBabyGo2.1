@@ -25,5 +25,5 @@ right| / | / | 0V | 12V | steer to the right
 | | | | | | |
 joystick forward - controller backwards | 12V | 0V | / | / | driver backwards
 jostick backwards - controller forward | 0V | 12V | / | / | driver forward
-joystick left - controller right | / | / | 0V | 12V | steer to the right
-joystick right - controller left | / | / | 12V | 0V | steer to the left
+joystick left - controller right | / | / | 0V | 7.4V | steer to the right
+joystick right - controller left | / | / | 7.4V | 0V | steer to the left
