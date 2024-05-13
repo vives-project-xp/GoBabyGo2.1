@@ -38,19 +38,24 @@ Deze tuimelschakelaar is te verkrijgen bij de leverancier Conrad via deze [link]
 ## Materiaal
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
-* 3 x   140cm rode   flexibele koper draad van  ø 1.5mm²  
-* 7 x    20cm rode   flexibele koper draad van  ø 1.5mm²
-* 3 x    30cm zwarte flexibele koper draad van  ø 1.5mm² 
+
+560cm h05v-k Rood
+  * 3 x   140cm rode   h05v-k flexibele koper kabel van  ø 1.5mm²  = 420 cm
+  * 7 x    20cm rode   h05v-k flexibele koper kabel van  ø 1.5mm²  = 140 cm
+
+ 90cm h05v-k Zwart
+  * 3 x    30cm zwarte h05v-k flexibele koper kabel van  ø 1.5mm² = 30cm
+    
 * 9 x  Wago verbindingsklem 3-voudig  geschikt voor geleiders met maximale doorsnede van 4mm² 
 * 8 x  Kabelschoenen (Indien je een ander type joystick gebruikt controleer steeds dat de kabelschoenen passen naar behoren.)
-* 2 x  Female jumper connector 
+* 2 x  Female jumper connector dupont (krimp uitvoering)
 * 5 x  Moeren maat M5
 * 5 x  Metaalschroeven maat M5
 * 4 x  Schroefdraadbussen M3
 * 4 x  Metaalschroef M3 30mm
   
   
-* Optie:  Adereindhuls
+* Optie:  Adereindhuls of Wago doorvoerconnector
           Kleine Kabelbinders te ge bruiken naar believen. 
 
 ## Tools
@@ -64,6 +69,7 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 * Soldeerbout
 * Soldeertin (Eventueel Flux) 
 * Soldeermat 
+* Dupont Krimptang
   
 * Optie: Labels om kabels te labelen
 * Opmerking: Schroevendraaiers kunnen wijzigen naargelang de gekozen moeren/bouten. Een kruiskop heb je zeker nodig.
@@ -72,10 +78,15 @@ Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 
 ### Stap 1: 3D-prints joystick
 
-Steek 4 schroefdraadbussen van maat M3 in de daarvoor bestemde gaten van de 3D-print waar de joystick wordt geplaatst. Gebruik hiervoor een soldeerbout om het plastic voorzichtig te laten smelten. Zorg ervoor dat de soldeerbout een dikke punt heeft en ingesteld is op ongeveer 200°C. Wacht even totdat de warmte gelijkmatig wordt verdeeld en smelt de schroefdraadbus voorzichtig in het plastic. Doe hetzelfde voor de stuurstanghouder waar een uitsparing is voorzien voor een M5-moer.
-Plaats 2 M5-moeren in de daarvoor voorziene plaats van het dashboard koppelstuk en schuif 2 M5-moeren in de voorziene gleuven van het dashboardkoppelstuk.
+Plaats de 4 schroefdraadbussen (maat M3) in de daarvoor bestemde gaten van de 3D-print waar de joystick wordt geplaatst.
+Gebruik hiervoor een soldeerbout om het plastic voorzichtig te laten smelten.
+Zorg ervoor dat de soldeerbout een dikke punt heeft en ingesteld is op ± 200°C.
+Wacht even totdat de warmte gelijkmatig wordt verdeeld en smelt de schroefdraadbus voorzichtig in het plastic.
+Doe hetzelfde voor de stuurstanghouder waar een uitsparing is voorzien voor een M5-moer.
+Plaats 2x M5-moeren in de daarvoor voorziene plaats van het dashboard koppelstuk en schuif 2x M5-moeren in de voorziene gleuven van het dashboardkoppelstuk.
 
-Schroef de metalen plaat die standaard aan de joystick hangt los en bevestig in plaats daarvan het deksel voor de doos aan de joystick met de bijbehorende schroeven. Schroef de groene stukken onderaan de joystick los, deze zijn niet nodig.
+Schroef de metalen plaat die standaard aan de joystick hangt los en bevestig in plaats daarvan het deksel voor de doos aan de joystick met de bijbehorende schroeven. 
+Schroef de groene stukken onderaan de joystick los, deze zijn niet nodig.
 
 ![Doos joystick](/Images/DoosJoystick.png "Doos met alle schroefdraadbussen")
 
@@ -93,16 +104,24 @@ Schroef de metalen plaat die standaard aan de joystick hangt los en bevestig in 
 
 ### Stap 2 Voorbereiding bekabeling
 
-Knip 3 stukken rode flexibele draden van 140cm lang en 7 stukken van 20cm lang. Knip 3 stukken zwarte flexibele draad van 20cm lang. Ontmantel alle draden zodat ongeveer 1cm isolatie van de draad verwijderd is.
+Knip 3 rode   kabels van ±140cm lang en 7 kabels van ± 20cm lang. 
+Knip 3 zwarte kabels van ± 20cm lang. 
+Ontmantel alle draden zodat ±1cm isolatie van de draad verwijderd is.
 
-Bevestig een female jumper connector aan het uiteinde van 2 lange rode flexibele draden en plaats ze in een plastic pin behuizing. Vertin het andere uiteinde en bevestig hier kabelschoentjes aan. Label de 2 kabels met respectievelijk links en rechts. Vertin beide uiteinden van de laatste lange rode draad en plaats het één uiteinde een wago-connector. Label deze kabel met 5V.
+Bevestig een female jumper connector aan het uiteinde van 2 lange rode flexibele kbales en plaats ze in een plastic pin behuizing met behulp van de krimptang.
+Vertin het andere uiteinde en bevestig hier kabelschoentjes aan.(Label de 2 kabels met respectievelijk links en rechts.)
 
-Vertin alle uiteinden van de 7 stukken rode draad. Bevestig kabelschoentjes aan 2 korte rode draden en vertin het ander uiteinde. Plaats deze 2 rode draden samen met de lange rode draad in een wago-connector. Bevestig kabelschoentjes aan 2 korte rode draden en plaats op beide uiteinden een wago. Label deze 2 kabels met respectievelijk vooruit en achteruit.
+Vertin beide uiteinden van de laatste lange rode kabel en plaats één uiteinde een wago-connector. Label deze kabel met 5V.
 
-Vertin alle uiteinden van de 3 korte zwarte draden en bevestig kabelschoentjes aan 2 van deze draden. Plaats deze twee draden samen in een wago-connector.
+Vertin alle uiteinden van de 7 stukken rode kabel. Bevestig kabelschoentjes aan 2 korte rode kabels en vertin het ander uiteinde. 
+Plaats deze 2 rode kabels samen met de lange rode kabel in een wago-connector. 
+Bevestig kabelschoentjes aan 2 korte rode kabels en plaats op beide uiteinden een wago.
+Label deze 2 kabels met respectievelijk vooruit en achteruit.
+
+Vertin alle uiteinden van de 3 (korte) zwarte kabels en bevestig kabelschoentjes aan 2 van deze draden. Plaats deze twee kabels samen in een wago-connector.
 
 **Opmerking:**
-Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebruikt worden.
+Als alternatief voor het vertinnen van de koperen kabels kan ook een adereindhuls of Wago doorvoerconnector gebruikt worden.
 
 ![Jumper connector uiteinde](/Images/JumperConnector.png "Twee jumper connectors")
 
@@ -116,13 +135,13 @@ Als alternatief voor het vertinnen van de koperen draden kan ook aderhulzen gebr
 
 ### Stap 3 Verbinding motor driver
 
-Verbind 3 korte rode draden met de motordriver respectievelijk met OUT1, OUT2 en +12V verbind alle uiteinden van de draden met een wago.
+Verbind 3 korte rode kabels met de motordriver respectievelijk met OUT1, OUT2 en +12V verbind alle uiteinden van de draden met een Wago.
 
-Verbind 1 korte zwarte draad met de motordriver respectievelijk met GND en verbind het uiteinde van de draad met een wago.
+Verbind 1 korte zwarte draad met de motordriver respectievelijk met GND en verbind het uiteinde van de draad met een Wago.
 
-Verbind de 5V draad met de 5V pin op de motordriver.
+Verbind de 5V kabel met de 5V pin op de motordriver.
 
-Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de IN2.
+Verbind de linkse gelabelde kabel met de IN1 en de rechts gelabelde kabel met de IN2.
 
 ![Bovenkant motordriver](/Images/MotorDriverFront.png "Bovenaanzicht motordriver")
 
@@ -132,11 +151,12 @@ Verbind de links gelabelde draad met de IN1 en de rechts gelabelde draad met de 
 
 ### Stap 4 Kill-switch maken
 
-Knip 1 rode flexibele draad van 1m40 lang en 1 zwarte flexibele draad van 1m40 lang. Ontmantel beide draden zodat ongeveer 1cm van de isolatie verwijderd is, plooi 1 van de uiteinde rond en schroevendraaier zodat dit uiteinde vertint kan worden in de vorm van een haakje, vertin de andere uiteinde of plaats er een aderhuls op.
+Knip 1 rode kabel van 1m40 lang en 1 zwarte kabel van 1m40 lang. 
+Ontmantel beide draden zodat ongeveer 1cm van de isolatie verwijderd is, vertin één kant van de beide kabels en maak de vorm van een haakje, vertin het andere uiteinde.
 Vijs de haakjes die gemaakt werden vast aan de kill-switch en plaats op het andere uiteinden van de rode en zwarte draad een wago.
 
 ![Aansluiting kill-switch](/Images/BekabelingKillSwitch.png "Aansluiting draden killswitch")
 
 ![Vorm koper draad](/Images/VormKabelKillSwitch.png "Vorm haakje koper draad")
 
-[Terug naar boven](#Handleidingombouwkit)
+
