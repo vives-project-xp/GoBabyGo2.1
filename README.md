@@ -9,10 +9,10 @@ By creating adaptable vehicle kits and comprehensive instructions, the project s
 
 ## The team
 
-- [Alberiek Depreytere](https://github.com/AlberiekDepreytere) <!--Beschrijving rol toevoegen-->
+- [Alberiek Depreytere](https://github.com/AlberiekDepreytere): Supervision, assembly, architectural design,...
 - [Vic Verbiest](https://github.com/Vic-Verbiest) <!--Beschrijving rol toevoegen-->
 - [Lynn Delaere](https://github.com/LynnDelaere): Maintain documentation and support developers
-- [Bavo Lezy](https://github.com/bavolezy) <!--Beschrijving rol toevoegen-->
+
 
 ## Features
 
