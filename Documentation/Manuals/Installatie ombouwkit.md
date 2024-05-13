@@ -4,7 +4,7 @@
 
 * Benodigdheden
 * Installatie
-  * [Auto uitpakken](#Autouitpakken)
+  * Auto uitpakken
   * Batterij testen
   * Kill-switch
   * Ombouwkit
@@ -15,7 +15,7 @@
 
 ## Benodigdheden
 
-Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In de hieronder bijgevoegde lijst vind je de benodigdheden.
+Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van de auto In de hieronder bijgevoegde lijst vind je de benodigdheden.
 
 * Ombouwkit
 * 3D-prints
@@ -30,8 +30,11 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 ## Auto uitpakken
 
-Haal de auto uit de verpakking, organiseer de inhoud per categorie en berg alle spullen netjes op om ervoor te zorgen dat er niets verloren gaat.
-Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak. Het stuur is in dit geval niet meer nodig.
+Haal de auto uit de verpakking en organiseer de inhoud per categorie.
+Berg alle spullen netjes op om ervoor te zorgen dat er niets verloren gaat.
+Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat.
+Deponeer het afval in de daarvoor bestemde vuilnisbak. 
+Het stuur is in dit geval niet meer nodig. 
 
 ![Uitpakken auto](/Images/Uitpakken_Auto.jpg "Auto in doos")
 
@@ -39,7 +42,7 @@ Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer 
 
 ### Batterij test
 
-In de linker kant van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, deze is nog niet aangesloten.
+Aan linker zijde van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, die nog niet is aangesloten.
 Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij,
 de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten.
 Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt worden.  
@@ -52,9 +55,11 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 
 ### Kill-Switch
 
-Verwijder het gaspedaal voorzichtig uit de auto en maak de kabelschoentjes los die eraan vast zitten. Verwijder ongeveer 1cm van de isolatie van de paarse kabel, vertin de uiteinde van beide kabels of plaats een aderhuls op de kabels. Stop beide kabels in een wago samen met de kill-switch.
+Verwijder het gaspedaal voorzichtig uit de auto en maak de kabelschoentjes los die eraan vast zitten.
+Verwijder ongeveer 1cm van de isolatie van de beide (paarse) kabels, vertin deze ook uiteinde van beide kabels of plaats een aderhuls op de kabels. 
+Stop beide kabels in de wago/ aderhuls samen met de kill-switch.
 
-Plaats de wago's terug in de opening van de gaspedaal en leid de kabels en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de kabels van de kill-switch erin, richting de achterkant van de auto. Bind de kabels van de kill-switch vast met een paar kabelbinders. De kabelgoot dient voorlopig niet dicht gemaakt te worden. Haal de kabels van de kill-switch door de opening gaan waar alle andere kabels lopen. Steek de kabels en de kill-switch door de opening voorzien voor de achterlichten.
+Plaats de wago's of aderhuls terug in de opening van de gaspedaal en leid de kabels en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de kabels van de kill-switch erin, richting de achterkant van de auto. Bind de kabels van de kill-switch vast met een paar kabelbinders. De kabelgoot dient voorlopig niet dicht gemaakt te worden. Haal de kabels van de kill-switch door de opening gaan waar alle andere kabels lopen. Steek de kabels en de kill-switch door de opening voorzien voor de achterlichten.
 
 Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Steek de kill-switch door het gat en schroef deze vast met de meegeleverde moer.
 
