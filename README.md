@@ -35,4 +35,4 @@ The prototype car is functional the user manual and kit just need to be made.
  You can find the user manual in. [Yet to be made.]()
  If you want to build your own, then here is the converter kit[ombouwkit](/Documentation/Ombouwkit.md) here you can find all the additional info.
 
-//Last updatet 25/03/2024 12:00 CET
+//Last updatet 13/05/2024 09:00 CET
