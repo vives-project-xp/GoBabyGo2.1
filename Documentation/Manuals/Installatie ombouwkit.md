@@ -94,9 +94,9 @@ Steek de groene draad in een Wago samen met de rode draad gelabeld met achterwaa
 Plaats de paarse kabel samen in een Wago met de 2 zwarte korte kabels gelabeld ground.
 
 Indien gewenst kunnen de overtollige draden van de audio interface verwijderd worden.
-Dit zijn de draden die oorspronkelijk naar het stuur liepen. 
-Dit zijn respectievelijk 3 draden, geel, zwart en rood. 
+Dit zijn de draden die oorspronkelijk naar het stuur liepen. (3 draden, geel, zwart en rood.) 
 Ook kunnen de speakers losgekoppeld worden indien gewenst, dit zijn de 2 gele draden.
+Bij de Lampen op het dashboard kan je ook de connector losmaken. (Net als lichten voor en achter, respectievelijk langs voren en langsachteren.)
 
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
 
@@ -114,11 +114,20 @@ Ook kunnen de speakers losgekoppeld worden indien gewenst, dit zijn de 2 gele dr
 
 ![Bekabeling audio interface](/Images/BekabelingAudioInterface.png "Bekabeling audio interface")
 
-Aan de achterkant van de auto lokaliseer je de groene en gele kabel die naar de motor driver van de auto lopen. Koppel deze los en knip de connector van de draden af. Strip de 2 draden zodat ongeveer 1cm van de isolatie verwijderd is en plaats de groene kabel samen in de wago die verbonden is met OUT1 en de gele kabel samen in de wago die verbonden is met OUT2.
+Aan de achterkant van de auto lokaliseer je de groene en gele kabel die naar de motor driver van de auto lopen. 
+Koppel deze los en knip de connector van de draden af. 
+Strip de 2 draden zodat ongeveer 1cm van de isolatie verwijderd is en plaats de groene kabel samen in de wago die verbonden is met OUT1 en de gele kabel samen in de wago die verbonden is met OUT2.
 
-Lokaliseer de zwarte kabel en witte kabel van de 7pin connector en knip deze door op ongeveer 5cm van de aansluiting op de motor driver. Strip beide zijden van de draden. Controleer of de draden die nog verbonden zijn met de 7pin connector lang genoeg zijn om verbinding te maken met de motordriver. Indien dit niet het geval is, moet er een extra stuk draad worden toegevoegd met behulp van een kabelverbinder. Zorg ervoor dat beide kabels goed verbonden zijn met elkaar. Plaats de zwarte kabels samen in wago ground die zich op de motordriver bevind van de ombouwkit. Plaats de witte kabels samen in de wago 12V op de motordriver.
+Lokaliseer de zwarte kabel en witte kabel van de 7pin connector en knip deze door op ongeveer 5cm van de aansluiting op de motor driver. 
+Strip beide zijden van de draden. 
+Controleer of de draden die nog verbonden zijn met de 7pin connector lang genoeg zijn om verbinding te maken met de motordriver.
+Indien dit niet het geval is, moet er een extra stuk draad worden toegevoegd met behulp van een kabelverbinder.
+Zorg ervoor dat beide kabels goed verbonden zijn met elkaar. 
+Plaats de zwarte kabels samen in wago ground die zich op de motordriver bevind van de ombouwkit. 
+Plaats de witte kabels samen in de wago 12V op de motordriver.
 
-Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden terug vast gevezen worden. Het dashboard wordt pas terug vast geplaatst tijdens het plaatsen van de 3D prints.
+Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden terug vast gevezen worden. 
+Het dashboard wordt pas terug vast geplaatst tijdens het plaatsen van de 3D prints.
 
 ![Groene en gele kabel motor](/Images/GroenGeelMotor.png "Groene en gele kabels naar motor")
 
@@ -134,13 +143,23 @@ Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden
 
 ### Joystick en 3D prints
 
-Eens de ombouwkit volledig geïnstalleerd is, kunnen de kabels verbonden worden met de joystick om te testen of alles werkt. Indien alles correct werkt, kunnen deze terug losgekoppeld worden. Indien niet alles correct werkt, zal er ergens in de schakeling een slecht contact zijn of een fout met het verbinden van de correcte draden.
+Eens de ombouwkit volledig geïnstalleerd is, kunnen de kabels verbonden worden met de joystick om te testen of alles werkt. Indien alles correct werkt, kunnen deze terug losgekoppeld worden.
 
-Plaats de ronde platte schijf (dashboard onderstuk) in de opening waar de stuurstang doorgaat en geleid de kabels naar de joystick hierdoor. Steek eerst de kabels met de kabelschoentjes er door en vervolgens de overige kabels. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Doe hetzelfde met de holle cilinder (koppelstuk dashboard) met het uitsteeksel. Positioneer dit uitsteeksel in de uitkeping van het dashboard. Bevestig deze twee onderdelen aan elkaar met 2 M5-bouten. Zorg ervoor dat beide stukken stevig worden vastgezet, zodat deze niet kunnen loskomen of onstabiel zijn.
+Indien niet alles correct werkt, zal er ergens in de schakeling een slecht contact zijn of een fout met het verbinden van de correcte kabels. 
+Dit kan spanningsloos met een ohmmeter worden uitgemeten.
+
+Plaats de ronde platte schijf (dashboard onderstuk) in de opening waar de stuurstang doorgaat en geleid de kabels naar de joystick hierdoor. 
+Steek eerst de kabels met de kabelschoentjes en vervolgens de overige kabels door de holte. 
+Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. 
+Doe hetzelfde met de holle cilinder (koppelstuk dashboard met het uitsteeksel). 
+Positioneer dit stuk in de uitkeping van het dashboard. Bevestig deze twee onderdelen aan elkaar met 2x M5-bouten. Zorg ervoor dat beide stukken stevig worden vastgezet, zodat deze niet kunnen loskomen of onstabiel zijn en speling hebben.
 
 Leg de kabels over de cilinder, zodat de stuurstanghouder makkelijk geplaatst kan worden. Schuif de kleine cilinder (stuurstanghouder) over de stuurstang, en zorg ervoor dat de openingen in de 3D-prints zijn uitgelijnd met de openingen van de stuurstang. Bevestig de stuurstanghouder vast met een moer via de opening in de cilinder. Zorg ervoor dat de moer volledig door het 3D-print gaat, maar dat deze nergens aan kan haperen in de grote cilinder.
 
-Haal de kabels door de opening van de doos voor de joystick. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Plaats de doos voor de joystick op de cilinder en zorg ervoor dat de openingen van de doos zijn uitgelijnd met de holtes voorzien van moeren in de cilinder. Bevestig de doos stevig op de cilinder met 2 schroeven.
+Haal de kabels door de opening van de doos voor de joystick. 
+
+Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug.
+Plaats de doos voor de joystick op de cilinder en zorg ervoor dat de openingen van de doos zijn uitgelijnd met de holtes voorzien van moeren in de cilinder. Bevestig de doos stevig op de cilinder met 2 schroeven.
 
 Sluit de juiste kabelschoentjes aan op de juiste schakelaars van de joystick: één voor voorwaarts samen met één voor ground, één aan de tegenoverliggende zijde voor achterwaarts samen met één voor ground, één voor links samen met één voor 5V en 1 aan de tegenoverliggende zijde voor rechts samen met één voor 5V. Zorg ervoor dat de kablschoentjes stevig vastzitten, zodat ze niet los kunnen komen. Plaats de joystick in de doos en schroef het deksel vast op de doos.
 
@@ -163,15 +182,6 @@ Om de deuren te plaatsen, vijs je eerst de twee vijzen naast het dashboard uit d
  Klik daarna de spiegels op de deuren vast, deze kunnen maar op één manier in de deur klikken.
 
 ![Vastklikken spiegels](/Images/Spiegels_Vastklikken.jpg "Vastklikken van spiegels")
-
-### Houder afstandsbediening
-
-Boor een gat in de achterkant van de auto waar je de afstandsbediening wenst te plaatsen.
- Dit wordt best niet te dicht bij de kill-switch geplaatst anders verdiend deze zijn functionaliteit.
- Steek vervolgens de bout door dit gat en plaats hierop de 3D print. Bevestig dit stevig vast met de voorziene moer.
- Indien gewenst kan de print vastgezet worden met een lijmpistool voor extra stevigheid.
-
-![Houder afstandsbediening](/Images/Houder_Afstandsbediening.jpg "Houder voor de afstandsbediening")
 
 ### Wielen
 
@@ -203,3 +213,5 @@ Als laatste klik alle velgen op de wielen. Alle velgen zijn hetzelfde dus de vol
 ![Vastzetten achterwiel](/Images/Steekpin_Voorwiel.jpg "Vastzetten voorwiel met steekpin")
 
 ![Velgen](/Images/Velgen.jpg "Velgen op wielen")
+
+
