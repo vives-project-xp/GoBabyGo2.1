@@ -2,10 +2,10 @@
 
 ## Inhoud
 
-* Onderdelen [link](#Onderdelen)
-* Materiaal  [link](#1--this-is-my-header)
-* Tools      [link](#1--this-is-my-header)
-* Handleiding[link](#1--this-is-my-header)
+* [Onderdelen](#Onderdelen)
+* [Materiaal](#Materiaal)
+* [Tools](#Tools)
+* [Handleiding](#Handleiding)
 
 ## Onderdelen
 
