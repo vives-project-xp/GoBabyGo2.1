@@ -42,9 +42,11 @@ Het stuur is in dit geval niet meer nodig.
 
 ### Batterij test
 
-Aan linker zijde van de auto bevind zich de hoofdbekabeling van de auto. In deze bak vind je de batterij, die nog niet is aangesloten.
-Aan de powersocket bevind er zich een rode kabel en een zwarte kabel. Sluit de rode kabel aan op het rode klepje van de batterij,
-de zwarte kabel op het zwarte klepje van de batterij. Test of de batterij goed is aangesloten door de auto aan te zetten.
+Aan linker zijde van de auto bevind zich de hoofdbekabeling van de auto. 
+In deze bak vind je de batterij, die nog niet is aangesloten.
+Aan de powersocket bevind er zich een rode kabel en een zwarte kabels.
+Sluit de rode kabel aan op het rode klepje van de batterij, de zwarte kabel op het zwarte klepje van de batterij. 
+Test of de batterij goed is aangesloten door de auto aan te zetten.
 Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt worden.  
 
 ![Batterij](/Images/Batterij_Aansluiting.jpg "Hoofdbekabeling")
@@ -56,12 +58,12 @@ Koppel de batterij terug los nadat je deze hebt getest, zo kan er veilig gewerkt
 ### Kill-Switch
 
 Verwijder het gaspedaal voorzichtig uit de auto en maak de kabelschoentjes los die eraan vast zitten.
-Verwijder ongeveer 1cm van de isolatie van de beide (paarse) kabels, vertin deze ook uiteinde van beide kabels of plaats een aderhuls op de kabels. 
-Stop beide kabels in de wago/ aderhuls samen met de kill-switch.
+Verwijder ongeveer 1cm van de isolatie van de beide (paarse) kabels, vertin deze ook uiteinde van beide kabels of plaats een adereindhuls op de kabels. 
+Stop beide kabels in de Wago/ adereindhuls samen met de kill-switch.
 
-Plaats de wago's of aderhuls terug in de opening van de gaspedaal en leid de kabels en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de kabels van de kill-switch erin, richting de achterkant van de auto. Bind de kabels van de kill-switch vast met een paar kabelbinders. De kabelgoot dient voorlopig niet dicht gemaakt te worden. Haal de kabels van de kill-switch door de opening gaan waar alle andere kabels lopen. Steek de kabels en de kill-switch door de opening voorzien voor de achterlichten.
+Plaats de wago's of adereindhuls terug in de opening van de gaspedaal en leid de kabels en de kill-switch door de opening naar de onderkant van de auto. Maak de kabelgoot aan de onderkant van de auto los en leg de kabels van de kill-switch erin, richting de achterkant van de auto. Bind de kabels van de kill-switch vast met een paar kabelbinders. De kabelgoot dient voorlopig niet dicht gemaakt te worden. Haal de kabels van de kill-switch door de opening waar alle andere kabels lopen. Steek de kabels en de kill-switch door de opening voorzien voor de achterlichten indien gewenst kan je ook nog een extra kabelbinder bevestigen door de gaten aan de rugleuning van de stoel zodat de kabels niet loshangen in de "kofferruimte".
 
-Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Steek de kill-switch door het gat en schroef deze vast met de meegeleverde moer.
+Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg ervoor dat het gat niet te dicht bij de rand van de auto zit zodat dit makkelijk bereikbaar is vanaf de onderkant. Steek de kill-switch door het gat en schroef deze vast met de meegeleverde moer. Tip: Het is ook steeds handig om de killswitch met de On-kant naar boven de plaatsen. Op deze manier moet je enkel naar beneden duwen voor de auto uit te zetten. 
 
 ![Gaspedaal](/Images/GaspedaalTerugplaatsen.png "Gaspedaal auto")
 
@@ -79,11 +81,22 @@ Boor een gat in de achterkant van de auto om de kill-switch te plaatsen. Zorg er
 
 ### Ombouwkit
 
-Leg de ombouwkit in de ruimte waar de batterij zich bevind. Steek de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts en 5V. Plaats deze kabels in de kabelgoot onderaan de auto naar voor. Vijs de kabelgoot vooraan in de auto open en leg de kabels ook in deze kabelgoot. Vijs het dashboard open, haal het voorzichtig van de stuurstang en haal de kabels van de ombouwkit voorzichtig door de opening waar de andere kabels doorlopen.
+Leg de ombouwkit in de ruimte waar de batterij zich bevind. 
+Steek de kabels voor de joystick in de opening waar de andere kabels lopen, respectievelijk een kabel voor links, rechts en 5V. 
+Plaats deze kabels in de kabelgoot onderaan de auto naar voor. 
+Vijs de kabelgoot vooraan in de auto open en leg de kabels ook in deze kabelgoot. 
+Vijs het dashboard open, haal het voorzichtig van de stuurstang en haal de kabels van de ombouwkit voorzichtig door de opening waar de andere kabels doorlopen.
 
-Lokaliseer de groene, paarse en gele draad die verbonden zijn met een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. Knip deze draden door en strip de draden zodat ongeveer 1cm van de isolatie verwijderd is. Vertin de uiteinden van de draden of plaats een aderhuls over de draden. Steek de groene draad in een wago samen met de rode draad gelabeld met achterwaarts en de gele draad in een wago samen met de draad gelabeld voorwaarts. Plaats de paarse kabel samen in een wago met de 2 zwarte korte kabels gelabeld ground.
+Lokaliseer de groene, paarse en gele draad die verbonden zijn met een kabelschoentje op de schakelaar om vooruit of achteruit te rijden. 
+Knip deze draden door en strip de draden zodat ±1cm van de isolatie verwijderd is. 
+Vertin de uiteinden van de draden of plaats een aderhuls over de draden. 
+Steek de groene draad in een Wago samen met de rode draad gelabeld met achterwaarts en de gele draad in een Wago samen met de draad gelabeld voorwaarts.
+Plaats de paarse kabel samen in een Wago met de 2 zwarte korte kabels gelabeld ground.
 
-Indien gewenst kunnen de overtollige draden van de audio interface verwijderd worden. Dit zijn de draden die oorspronkelijk naar het stuur liepen. Dit zijn respectievelijk 3 draden, geel, zwart en rood. Ook kunnen de speakers losgekoppeld worden indien gewenst, dit zijn de 2 gele draden.
+Indien gewenst kunnen de overtollige draden van de audio interface verwijderd worden.
+Dit zijn de draden die oorspronkelijk naar het stuur liepen. 
+Dit zijn respectievelijk 3 draden, geel, zwart en rood. 
+Ook kunnen de speakers losgekoppeld worden indien gewenst, dit zijn de 2 gele draden.
 
 ![Opening kabels onder stoel](/Images/OpeningKabelsOnderStoel.png "Opening voor kabels onder de stoel")
 
