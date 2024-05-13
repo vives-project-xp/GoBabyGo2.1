@@ -2,16 +2,16 @@
 
 test|killswitch state|results|comments
 :----------------|:----------------:|:----------------:|:----------------
-forward| 0 | _ | _
-backward| 0 | _ | _
-left| 0 | _ | _
-right| 0 | _ | _
+forward| 0 | 0 | Is disabled
+backward| 0 | 0 | Is disabled
+left| 0 | 1 | Still works
+right| 0 | 1| Still works
 | | |
 | | |
-forward| 1 | _ | _
-backward| 1 | _ | _
-left| 1 | _ | _
-right| 1 | _ | _
+forward| 1 | 1| Drive forward
+backward| 1 | 1 | Drive backwards
+left| 1 | 1 | Steer left
+right| 1 | 1 | Steer right
 
 ## expectations
 
