@@ -2,10 +2,10 @@
 
 ## Inhoud
 
-* Onderdelen
-* Materiaal
-* Tools
-* Handleiding
+* Onderdelen [link](#Onderdelen)
+* Materiaal  [link](#1--this-is-my-header)
+* Tools      [link](#1--this-is-my-header)
+* Handleiding[link](#1--this-is-my-header)
 
 ## Onderdelen
 
@@ -38,31 +38,35 @@ Deze tuimelschakelaar is te verkrijgen bij de leverancier Conrad via deze [link]
 ## Materiaal
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
-* 3 stukken 140cm rode flexibele koper draad van  ø  1.5mm²  
-* 7 stukken 20cm rode flexibele koper draad van  ø  1.5mm²
-* 3 stukken 30cm zwarte flexibele koper draad van  ø  1.5mm² 
-* 9 stuks 3 klempositie wago's geschikt voor geleiders met maximale doorsnede van 4mm2
-* 8 kabelschoenen
-* 2 female jumper connector
-* 2 plastiek behuizing pin connector
-* Kabelbinders
-* 5 Moeren maat M5
-* 5 Metaalschroeven maat M5
-* 4 stuks schroefdraadbussen M3
-* 4 stuks metaalschroef M3 30mm
-* Optie: aderhulzen
+* 3 x   140cm rode   flexibele koper draad van  ø 1.5mm²  
+* 7 x    20cm rode   flexibele koper draad van  ø 1.5mm²
+* 3 x    30cm zwarte flexibele koper draad van  ø 1.5mm² 
+* 9 x  Wago verbindingsklem 3-voudig  geschikt voor geleiders met maximale doorsnede van 4mm² 
+* 8 x  Kabelschoenen (Indien je een ander type joystick gebruikt controleer steeds dat de kabelschoenen passen naar behoren.)
+* 2 x  Female jumper connector 
+* 5 x  Moeren maat M5
+* 5 x  Metaalschroeven maat M5
+* 4 x  Schroefdraadbussen M3
+* 4 x  Metaalschroef M3 30mm
+  
+  
+* Optie:  Adereindhuls
+          Kleine Kabelbinders te ge bruiken naar believen. 
 
 ## Tools
 
 Volgende tools zijn nodig om de ombouwset in elkaar te monteren.
 
-* Platte schoevendraaier
-* Ster schroevendraaier
-* Kniptang
-* Ontmanteltang
+* Sleuf    schoevendraaier  (-)
+* Kruiskop schroevendraaier (+)
+* (Zij)Kniptang
+* Striptang (Best een instelbare voor de verschillende diameters.)
 * Soldeerbout
-* Soldeertin
-* Labels om kabels te labelen
+* Soldeertin (Eventueel Flux) 
+* Soldeermat 
+  
+* Optie: Labels om kabels te labelen
+* Opmerking: Schroevendraaiers kunnen wijzigen naargelang de gekozen moeren/bouten. Een kruiskop heb je zeker nodig.
 
 ## Handleiding
 
