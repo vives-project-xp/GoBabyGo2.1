@@ -28,7 +28,7 @@ Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootj
 
 ## Installatie
 
-### Auto uitpakken
+## Auto uitpakken
 
 Haal de auto uit de verpakking, organiseer de inhoud per categorie en berg alle spullen netjes op om ervoor te zorgen dat er niets verloren gaat.
 Positioneer de auto zodanig dat de voorkant aan je rechterzijde staat. Deponeer het afval in de daarvoor bestemde vuilnisbak. Het stuur is in dit geval niet meer nodig.
