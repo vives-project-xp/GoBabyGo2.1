@@ -21,23 +21,26 @@ Er zijn 5 verschillende 3D stukken nodig om de joystick vast te zetten op het da
 
 ### Motor driver
 
-De links-rechts sturing wordt bepaald aan de hand van de motor die aanwezig is op de stuurstang in de auto. En wordt bestuurd door een motordriver tussen geschakeld wordt. Via de driver wordt de richting en de snelheid van de motor bepaald deze is een L298N driver, te verkrijgen bij Otronic via deze [link](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html). [link](DatasheetL298_H_Bridge.pdf)
-De L298N is een dubbele H-brug-motordriver die de snelheid en de richting van twee DC-motoren tegelijk mogelijk maakt, in ons geval zullen we maar één motor aansturen. De module kan een DC-motor aansturen met een spanning tussen de 5 en 35V en een piekstroom van 2A. Er zijn twee schroefklemmenblokken aanwezig respectievelijk voor motor A en motor B, een schroefklemblok voor de aarding, de Vcc voor de motor en een 5V-pin die zowel een ingang als een uitgang kan zijn, dit bijvoorbeeld voor een microcontroller. Er zijn 6 control pins aanwezig, pin 1 en 6 dienen om de snelheid van de motoren te regelen met behulp van een microcontroller, pinnen 2 en 3 dienen om de draairichting van motor A te regelen en pinnen 4 en 5 om de draairichting van motor B te regelen. In ons geval zullen we enkel pinnen 2 en 3 gebruiken om de de draairichting van de motor te regelen. Met de pinnen van de draairichting besturen we de schakelaars van de H-brug, als ingang 1 laag is en ingang 2 hoog, zal de motor vooruit bewegen, omgekeerd, als ingang 1 hoog is en ingang 2 laag is zal de moto achteruit bewegen. Als beide ingangen hetzelfde zijn, laag of hoog, zal de motor stoppen.
+De links-rechts sturing wordt bepaald aan de hand van de motor die aanwezig is op de stuurstang in de auto. En wordt bestuurd door een motordriver tussen geschakeld wordt. Via de driver wordt de richting en de snelheid van de motor bepaald deze is een L298N driver, te verkrijgen bij Otronic via deze [link](https://www.otronic.nl/nl/l298n-motor-driver-board-rood.html). [Datasheet L298N](DatasheetL298_H_Bridge.pdf)
+Dit is een dubbele H-brug-motordriver die de snelheid en de richting van twee DC-motoren tegelijk mogelijk maakt, in ons geval moeten we maar één motor aansturen. De module kan een DC-motor aansturen met een spanning tussen de 5 en 35V en een piekstroom van 2A. 
+
+In ons geval zullen we enkel pinnen 2 en 3 gebruiken om de de draairichting van de motor te regelen. Met de pinnen van de draairichting besturen we de schakelaars van de H-brug, als ingang 1 laag is en ingang 2 hoog, zal de motor vooruit bewegen, omgekeerd, als ingang 1 hoog is en ingang 2 laag is zal de moto achteruit bewegen. Als beide ingangen hetzelfde zijn, laag of hoog, zal de motor stoppen.
 De L298N zorgt voor een spanningsval van ongeveer 2V, hierdoor zal de spanning op de motorklemmen ongeveer 10V zijn, wat betekent dat we niet de maximale snelheid uit de 12V DC-motor kunnen halen.
 
-In de bijlage werd de datasheet van de motordriver toegevoegd.
+(Er zijn twee schroefklemmenblokken aanwezig respectievelijk voor motor A en motor B, een schroefklemblok voor de aarding, de Vcc voor de motor en een 5V-pin die zowel een ingang als een uitgang kan zijn, dit bijvoorbeeld voor een microcontroller. Er zijn 6 control pins aanwezig, pin 1 en 6 dienen om de snelheid van de motoren te regelen met behulp van een microcontroller, pinnen 2 en 3 dienen om de draairichting van motor A te regelen en pinnen 4 en 5 om de draairichting van motor B te regelen. Indien genst kan er dus nog een microncontroller tussen worden geplaatst als bijvoorbeeld via Internet de auto wilt kunnen besturen voor een groter bereik.)
 
 ### Tuimelschakelaar
 
-De auto wordt voorzien van een kill-switch om de stoom naar beide motoren te onderbreken. Deze tuimelschakelaar is te verkrijgen bij de leverancier Conrad via deze [link](https://www.conrad.be/nl/p/tru-components-1587664-tc-r13-2-05-tuimelschakelaar-250-v-ac-1-5-a-1x-uit-aan-continu-1-stuk-s-1587664.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1587664&adcampaign=google&tid=16860426636_pla-1587664&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYbr98urP1hYvNQBoRcFG0IOoJQFPxab4w2YgbCKT6JE00yVvjM9n6RoC2s0QAvD_BwE).
+De auto wordt voorzien van een kill-switch om de stroom naar beide motoren te onderbreken. 
+
+Deze tuimelschakelaar is te verkrijgen bij de leverancier Conrad via deze [link](https://www.conrad.be/nl/p/tru-components-1587664-tc-r13-2-05-tuimelschakelaar-250-v-ac-1-5-a-1x-uit-aan-continu-1-stuk-s-1587664.html?utm_source=google&utm_medium=surfaces&utm_campaign=shopping-feed&utm_content=free-google-shopping-clicks&utm_term=1587664&adcampaign=google&tid=16860426636_pla-1587664&gad_source=1&gclid=CjwKCAiAivGuBhBEEiwAWiFmYbr98urP1hYvNQBoRcFG0IOoJQFPxab4w2YgbCKT6JE00yVvjM9n6RoC2s0QAvD_BwE).
 
 ## Materiaal
 
 In de onderstaande lijst, staat het nodige materiaal om de ombouwset te maken.
-
-* 3 stukken 140cm rode flexibele koper draad van 1.5mm2 dik
-* 7 stukken 20cm rode flexibele koper draad van 1.5mm2 dik
-* 3 stukken 30cm zwarte flexibele koper draad van 1.5mm2 dik
+* 3 stukken 140cm rode flexibele koper draad van  ø  1.5mm²  
+* 7 stukken 20cm rode flexibele koper draad van  ø  1.5mm²
+* 3 stukken 30cm zwarte flexibele koper draad van  ø  1.5mm² 
 * 9 stuks 3 klempositie wago's geschikt voor geleiders met maximale doorsnede van 4mm2
 * 8 kabelschoenen
 * 2 female jumper connector
