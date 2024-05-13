@@ -4,7 +4,7 @@
 
 * Benodigdheden
 * Installatie
-  * [Auto uitpakken](##Autouitpakken)
+  * [Auto uitpakken](#Autouitpakken)
   * Batterij testen
   * Kill-switch
   * Ombouwkit
