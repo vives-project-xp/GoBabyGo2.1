@@ -27,10 +27,10 @@ The assembly kit comes with easy to follow instructions so the assembly kit can 
 
 ## Project status
 
-The prototype car is functional the user manual and kit just need to be made.
+The ride-on car has been successfully converted to a ride-on car with a joystick, a guide on how to make the assembly kit has been made and an installation manual had been written out.
 
 ## Documentation
 
-The documentation folder contains an [assembly kit](/Documentation/Manuals/Handleiding%20ombouwkit.md) 
+The documentation folder contains an [assembly kit](/Documentation/Manuals/Handleiding%20ombouwkit.md) and an [installation manual](/Documentation/Manuals/Installatie%20ombouwkit.md) to convert a ride-on car.
 
 //Last updatet 13/05/2024 09:00 CET
