@@ -8,10 +8,10 @@ left| _ | _ | _ | _ | _
 right| _ | _ | _ | _ | _
 | | | | | | |
 | | | | | | |
-joystick forward - controller backwards | 0V | 12.78V | _ | _ | _ |
-jostick backwards - controller forward | 12.81V | 0V | _ | _ | _ 
-joystick left - controller right | _ | _ | 0V | 8.1V | _ 
-joystick right - controller left | _ | _ | 7.95V | 0V | _ 
+joystick forward - controller backwards | 0V | 12.78V | _ | _ | car drives backwards
+jostick backwards - controller forward | 12.81V | 0V | _ | _ | car drives forwards
+joystick left - controller right | _ | _ | 0V | 8.1V | car turns to the left
+joystick right - controller left | _ | _ | 7.95V | 0V | car turns to the right 
 
 ## expectations
 
