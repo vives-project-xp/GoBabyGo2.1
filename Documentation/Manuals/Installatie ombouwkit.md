@@ -15,7 +15,7 @@
 
 ## Benodigdheden
 
-Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In die hieronder bijgevoegde lijst vind je de benodigdheden.
+Zorg dat je alle benodigdheden hebt voor je start aan het bouwen van het autootje. In de hieronder bijgevoegde lijst vind je de benodigdheden.
 
 * Ombouwkit
 * 3D-prints
@@ -96,7 +96,7 @@ Indien gewenst kunnen de overtollige draden van de audio interface verwijderd wo
 
 ![Bekabeling audio interface](/Images/BekabelingAudioInterface.png "Bekabeling audio interface")
 
-In de achterkant van de auto lokaliseer je de groene en gele kabel die naar de motor driver van de auto lopen. Koppel deze los van en knip de connector van de draden. Strip de 2 draden zodat ongeveer 1cm van de isolatie verwijderd is en plaats de groene kabel samen in de wago die verbonden is met OUT1 en de gele kabel samen in de wago die verbonden is met OUT2.
+Aan de achterkant van de auto lokaliseer je de groene en gele kabel die naar de motor driver van de auto lopen. Koppel deze los en knip de connector van de draden af. Strip de 2 draden zodat ongeveer 1cm van de isolatie verwijderd is en plaats de groene kabel samen in de wago die verbonden is met OUT1 en de gele kabel samen in de wago die verbonden is met OUT2.
 
 Lokaliseer de zwarte kabel en witte kabel van de 7pin connector en knip deze door op ongeveer 5cm van de aansluiting op de motor driver. Strip beide zijden van de draden. Controleer of de draden die nog verbonden zijn met de 7pin connector lang genoeg zijn om verbinding te maken met de motordriver. Indien dit niet het geval is, moet er een extra stuk draad worden toegevoegd met behulp van een kabelverbinder. Zorg ervoor dat beide kabels goed verbonden zijn met elkaar. Plaats de zwarte kabels samen in wago ground die zich op de motordriver bevind van de ombouwkit. Plaats de witte kabels samen in de wago 12V op de motordriver.
 
@@ -118,7 +118,7 @@ Eens alles correct is geïnstalleerd kunnen de kabelgoten die los gemaakt werden
 
 Eens de ombouwkit volledig geïnstalleerd is, kunnen de kabels verbonden worden met de joystick om te testen of alles werkt. Indien alles correct werkt, kunnen deze terug losgekoppeld worden. Indien niet alles correct werkt, zal er ergens in de schakeling een slecht contact zijn of een fout met het verbinden van de correcte draden.
 
-Plaats de ronde platte schijf (dashboard onderstuk) in de opening waar de stuurstang doorgaat en geleid de kabels naar de joystick hierdoor. Steek eerst de kabels met de kabelschoentjes er door en vervolgens de overige kabels. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Doe hetzelfde met de holle cilinder (koppelstuk dashboard) met het uitsteeksel; positioneer dit uitsteeksel in de uitkeping van het dashboard. Bevestig deze twee onderdelen aan elkaar met 2 M5-bouten. Zorg ervoor dat beide stukken stevig worden vastgezet, zodat deze niet kunnen loskomen of onstabiel zijn.
+Plaats de ronde platte schijf (dashboard onderstuk) in de opening waar de stuurstang doorgaat en geleid de kabels naar de joystick hierdoor. Steek eerst de kabels met de kabelschoentjes er door en vervolgens de overige kabels. Indien nodig, verwijder tijdelijk de wago's van de kabels en plaats ze daarna terug. Doe hetzelfde met de holle cilinder (koppelstuk dashboard) met het uitsteeksel. Positioneer dit uitsteeksel in de uitkeping van het dashboard. Bevestig deze twee onderdelen aan elkaar met 2 M5-bouten. Zorg ervoor dat beide stukken stevig worden vastgezet, zodat deze niet kunnen loskomen of onstabiel zijn.
 
 Leg de kabels over de cilinder, zodat de stuurstanghouder makkelijk geplaatst kan worden. Schuif de kleine cilinder (stuurstanghouder) over de stuurstang, en zorg ervoor dat de openingen in de 3D-prints zijn uitgelijnd met de openingen van de stuurstang. Bevestig de stuurstanghouder vast met een moer via de opening in de cilinder. Zorg ervoor dat de moer volledig door het 3D-print gaat, maar dat deze nergens aan kan haperen in de grote cilinder.
 
@@ -140,7 +140,7 @@ Sluit de juiste kabelschoentjes aan op de juiste schakelaars van de joystick: é
 
 ### Deuren en spiegels
 
-Om de deuren te plaatsen vijs je eerst de twee vijzen naast het dashboard uit de auto los.
+Om de deuren te plaatsen, vijs je eerst de twee vijzen naast het dashboard uit de auto los.
  Vervolgens plaats je de deur op het auto en vijs je de twee vijzen weer door de deur en de gaatjes.
  Klik daarna de spiegels op de deuren vast, deze kunnen maar op één manier in de deur klikken.
 
