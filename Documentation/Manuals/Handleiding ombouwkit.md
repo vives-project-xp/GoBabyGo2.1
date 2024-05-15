@@ -2,15 +2,19 @@
 
 ## Inhoud
 
-* [Onderdelen](#onderdelen)
-* [Materiaal](#materiaal)
-* [Tools](#tools)
-* [Handleiding](#handleiding)
-* [Onderdelen](#onderdelen)
-* [Materiaal](#materiaal)
-* [Tools](#tools)
-* [Handleiding](#handleiding)
 * [Opmerking](#opmerking)
+* [Onderdelen](#onderdelen)
+* [Materiaal](#materiaal)
+* [Tools](#tools)
+* [Handleiding](#handleiding)
+* [Onderdelen](#onderdelen)
+* [Materiaal](#materiaal)
+* [Tools](#tools)
+* [Handleiding](#handleiding)
+
+## Opmerking
+
+Deze ombouwkit is ontworpen voor een specifieke elektrische kinderauto van het type Mercedes-Benz GLC63, met productcode QLS5688-grey.
 
 ## Onderdelen
 
@@ -152,6 +156,4 @@ Vijs de haakjes die gemaakt werden vast aan de kill-switch en plaats op het ande
 
 ![Vorm koper draad](/Images/VormKabelKillSwitch.png "Vorm haakje koper draad")
 
-## Opmerking
 
-Deze ombouwkit is ontworpen voor een specifieke elektrische kinderauto van het type Mercedes-Benz GLC63, met productcode QLS5688-grey.
