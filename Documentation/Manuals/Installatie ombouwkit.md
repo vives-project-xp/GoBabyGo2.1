@@ -2,6 +2,7 @@
 
 ## Inhoud
 
+* [Opmerking](#opmerking)
 * [Benodigdheden](#benodigdheden)
 * [Installatie](#installatie)
   * [Auto uitpakken](#auto-uitpakken)
@@ -11,6 +12,10 @@
   * [Joystick en 3D prints](#joystick-en-3d-prints)
   * [Deuren en spiegels](#deuren-en-spiegels)
   * [Wielen](#wielen)
+
+## Opmerking
+
+Deze ombouwkit is ontworpen voor een specifieke elektrische kinderauto van het type Mercedes-Benz GLC63, met productcode QLS5688-grey.
 
 ## Benodigdheden
 
@@ -213,3 +218,4 @@ Als laatste klik alle velgen op de wielen. Alle velgen zijn hetzelfde dus de vol
 ![Vastzetten achterwiel](/Images/Steekpin_Voorwiel.jpg "Vastzetten voorwiel met steekpin")
 
 ![Velgen](/Images/Velgen.jpg "Velgen op wielen")
+
