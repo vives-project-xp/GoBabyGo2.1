@@ -1,43 +1,47 @@
-# engine tests
-For testing the working of the diferent electric motors in the car, it is posible to measure the voltage on connectors from the mototrdrivers. in case of the forward and backward motion, this is the motor driver that was included in the original car. This motor drivers controles the 2 motors located in the back of the car.
+# motor testen
+Om de werking te testen va, de verschillende motoren in de auto, is het mogelijk om de verschillende spanningen te meten op de aansluitpinnen van de motordrivers. In het geval van de voorwaardse en achterwaards beweging kan er gemeten worden op de moordriver die is meegeleverd et de auto. Deze driver stuurt de 2 motoren aan die aan de achterkant van de auto te vinden zijn.
 # picture
-Under here, u can see the expected values for each pin on the mototdriver and the actual value that was measured.
-### expectations
-tests|Motor|comments
+Hieronder zijn de verwachte waarden en de gemeten waarden te zien van de spanningen die over de motoren zouden komen
+### verwachtingen
+tests|Motor|opmerkingen
 :---------------------|:------|:----------------------------------------------
-joystick forward | 12V | motors go forward
-joystick backwards | -12V | motors go backwards
+joystick forward | 12V | motoren gaan vooruit
+joystick backwards | -12V | motoren gaan achteruit
 ||
-controller forward | 12V | motors go forward
-controller backwards | -12V | motors go backwads
+controller forward | 12V | motoren gaan vooruit
+controller backwards | -12V | motoren gaan achteruit
 
-### measurements
-tests|Motor|comments
+### metingen
+tests|Motor|opmerkingen
 :---------------------|:------|:----------------------------------------------
-joystick forward | 12.78V | motors go forward
-joystick backwards | -12.81V | motors go backwards
+joystick forward | 12,78V | motoren gaan vooruit
+joystick backwards | -12,81V | motoren gaan achteruit
 ||
-controller forward | 12.75V | motors go forward
-controller backwards | -12.77V | motors go backwads
+controller forward | 12,75V | motoren gaan vooruit
+controller backwards | -12,77V | motoren gaan achteruit
 
-For the steering motion, we added an extra motordriver becaus this motion was normaly taken care of by using the steeringwheel. We use the L298N motordriver sinds this was already  used in the project 'GoBabyGo 2.1' and this works on 12V wich is provided by the car. By using this motordriver, there is a small voltagedrop on the outputconnector where the motor wil be connected. whan we make use of a relais, it is posible to combine the 2 motordrivers. since we did not receive the relais on time, it was not posible to take measurements of the the steeringmotion with the controller.
+Voor de stuurbeweging hebben we een extra motordriver moeten toevoegen aangezien deze beweging normaal gedaan werd door het draaien van het stuur. Er wordt nu gebruik gemaakt van de L298N motordriver, voor de sturing met de joystick, aangezien deze werd gebruikt in het project 'GoBabyGo 2.0' en werkt op 12V die geleverd wordt door de batterij. Door het gebruik van een extra motordriver is er een kleine spanningsval op de uitgang waar de stuurmotor aan verbonde wordt.
+
+Wanneer we gebruik maken van een relais is het mogelijk om de 2 motordrivers te combineren. Op die manier kan gestuurd worden met de joystick en de afstandsbediening waar de 2de optie de voorang krijgt.
 # picture
-Under here, u can see the expected values for each pin on the mototdriver and the actual value that was measured.
+Hieronder zijn de verwachte waarden en de gemeten waarden te zien van de spanningen die over de motor zou komen
 ### expectations
-tests|Motor|comments
+tests|Motor|opmerkingen
 :---------------------|:------|:----------------------------------------------
-joystick left | 7.4V | steer left
-joystick right | -7.4V | steer right
+joystick left | 7,4V | stuur links
+joystick right | -7,4V | stuur rechts
 ||
-controller left | 12V | steer left
-controller right | -12V | steer right
-### measurements
-tests|Motor|comments
+controller left | 12V | stuur links
+controller right | -12V | stuur rechts
+### metingen
+tests|Motor|opmerkingen
 :---------------------|:------|:----------------------------------------------
-joystick left | 8.1V | steer left
-joystick right | -7.95V  | steer right
+joystick left | 8,1V | stuur links
+joystick right | -7,95V  | stuur rechts
 ||
-controller left | / | steer left
-controller right | / | steer right
+controller left | / | stuur links
+controller right | / | stuur rechts
+
+De reden waarom alle metingen hoger zijn dan de verwachte waarde is de spanning van de batterij. Normaal zou deze 12V moten zijn maar na het meten is deze 12,84V
 
 the reson why all the measurements are higher than expected is because of the battery. in theory, the battery should be 12V but when we measured this, it was actual 12.84V.
