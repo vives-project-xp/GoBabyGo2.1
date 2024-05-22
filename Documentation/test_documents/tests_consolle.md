@@ -47,5 +47,3 @@ controller left | / | stuur links
 controller right | / | stuur rechts
 
 De reden waarom alle metingen hoger zijn dan de verwachte waarde is de spanning van de batterij. Normaal zou deze 12V moten zijn maar na het meten is deze 12,84V
-
-the reson why all the measurements are higher than expected is because of the battery. in theory, the battery should be 12V but when we measured this, it was actual 12.84V.
