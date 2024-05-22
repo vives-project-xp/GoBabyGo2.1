@@ -7,10 +7,6 @@
 * [Materiaal](#materiaal)
 * [Tools](#tools)
 * [Handleiding](#handleiding)
-* [Onderdelen](#onderdelen)
-* [Materiaal](#materiaal)
-* [Tools](#tools)
-* [Handleiding](#handleiding)
 
 ## Opmerking
 
