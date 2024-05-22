@@ -1,6 +1,8 @@
 # motor testen
 Om de werking te testen va, de verschillende motoren in de auto, is het mogelijk om de verschillende spanningen te meten op de aansluitpinnen van de motordrivers. In het geval van de voorwaardse en achterwaards beweging kan er gemeten worden op de moordriver die is meegeleverd et de auto. Deze driver stuurt de 2 motoren aan die aan de achterkant van de auto te vinden zijn.
-![motordriver1](/Images/motordriver1.png "motordriver meegeleverd met de auto")
+
+![motordriver1](/Images/motordriver1.PNG "motordriver meegeleverd met de auto")
+
 Hieronder zijn de verwachte waarden en de gemeten waarden te zien van de spanningen die over de motoren zouden komen
 ### verwachtingen
 tests|Motor|opmerkingen
@@ -23,7 +25,9 @@ controller backwards | -12,77V | motoren gaan achteruit
 Voor de stuurbeweging hebben we een extra motordriver moeten toevoegen aangezien deze beweging normaal gedaan werd door het draaien van het stuur. Er wordt nu gebruik gemaakt van de L298N motordriver, voor de sturing met de joystick, aangezien deze werd gebruikt in het project 'GoBabyGo 2.0' en werkt op 12V die geleverd wordt door de batterij. Door het gebruik van een extra motordriver is er een kleine spanningsval op de uitgang waar de stuurmotor aan verbonde wordt.
 
 Wanneer we gebruik maken van een relais is het mogelijk om de 2 motordrivers te combineren. Op die manier kan gestuurd worden met de joystick en de afstandsbediening waar de 2de optie de voorang krijgt.
-![motordriver1](/Images/motordriver2.png "extra motordriver")
+
+![motordriver1](/Images/motordriver2.PNG "extra motordriver")
+
 Hieronder zijn de verwachte waarden en de gemeten waarden te zien van de spanningen die over de motor zou komen
 ### expectations
 tests|Motor|opmerkingen
